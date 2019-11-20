@@ -1,0 +1,28 @@
+[2019-11-05:13:49:47]	save_doc
+[2019-11-05:13:49:47]	qty:1
+[2019-11-05:13:49:47]	pu_htva:206.61
+[2019-11-05:13:49:47]	type:
+[2019-11-05:13:49:47]	type:
+[2019-11-05:13:49:47]	label: Certification énergétique PEB d\'une maison
+[2019-11-05:13:49:47]	remarque:
+[2019-11-05:13:49:47]	id_taux_tva:21
+[2019-11-05:13:49:47]	qty:1
+[2019-11-05:13:49:47]	pu_htva:123.97
+[2019-11-05:13:49:47]	type:
+[2019-11-05:13:49:47]	type:
+[2019-11-05:13:49:47]	label: Contrôle d\'une installation électrique par Certigreen Test
+[2019-11-05:13:49:47]	remarque:
+[2019-11-05:13:49:47]	id_taux_tva:21
+[2019-11-05:13:49:47]	intranet_totalize_doc_facture
+[2019-11-05:13:49:47]	id:22403
+[2019-11-05:13:49:47]	save_fac:
+[2019-11-05:13:49:47]	      UPDATE intranet_factures
+      SET
+		 montant_a_payer_htva = (select ROUND(SUM(tot_htva),2) FROM intranet_facture_lignes WHERE id_invoice = '22403'),
+		 montant_a_payer_tva = (select ROUND(SUM(tot_tva),2) FROM intranet_facture_lignes WHERE id_invoice = '22403'),
+		 montant_a_payer_tvac = (select ROUND(SUM(tot_tvac),2) FROM intranet_facture_lignes WHERE id_invoice = '22403')
+	  WHERE
+          id = 22403
+
+[2019-11-05:13:49:47]	DELETE FROM intranet_facture_lignes WHERE label='' AND tot_htva = 0 AND remarque = '' AND remise = 0
+[2019-11-05:13:49:49]	save_doc ok

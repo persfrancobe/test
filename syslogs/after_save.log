@@ -1,0 +1,44 @@
+[2019-11-05:08:03:52]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:08:37:47]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:09:51:27]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:09:55:44]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:09:56:02]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:10:02:08]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:10:07:27]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:10:07:39]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:10:13:11]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:10:19:43]			UPDATE members SET fusion = '<span class="member_title"><span class="member_deplie"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span><b> SIRDEL</b></span><div class="row member_info hide"><div style="" class=" col-md-12"><div class="societe panel panel-default"><a href="/cgi-bin/adm_handmade_certigreen_members.pl?sel=1000282&id_father=0&sel=&sw=add_form&id=7688" data-placement="bottom" data_original-title="Modifier le client" id="7688" class="migedit_7688 migedit">Place de Bury 17<br />7602 Bury<br /></a><a href="tel:0478/10.75.32"> 0478/10.75.32</a>',fusion_short='SIRDEL Place de Bury 17  7602 Bury ' WHERE id = '7688'
+
+[2019-11-05:10:19:43]			UPDATE members SET last_login = NOW() WHERE id = '7688' and last_login = '0000-00-00'
+
+[2019-11-05:10:19:43]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:10:20:05]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:11:04:17]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:11:05:13]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:11:17:05]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:11:21:10]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:11:38:04]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:11:51:37]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:12:18:55]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:12:20:28]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+
+[2019-11-05:13:48:58]			UPDATE members SET password = 'd3b05f624a2ab2323882a053662a2729aa990ec7' WHERE password = ''
+

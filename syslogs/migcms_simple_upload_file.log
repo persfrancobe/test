@@ -1,0 +1,10 @@
+[2019-11-05:13:52:09]	migcms_simple_upload_file
+[2019-11-05:13:52:09]	DELETE PREVIOUS PIC 
+[2019-11-05:13:52:09]	filename:pj
+[2019-11-05:13:52:09]	file_prefixe:DOC
+[2019-11-05:13:52:09]	table_name:commande_documents
+[2019-11-05:13:52:09]	token:13138
+[2019-11-05:13:52:09]	dossiers ok: /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/files/DOC/pj/13138
+[2019-11-05:13:52:09]	upload de (20191105007716_PEB.pdf)
+[2019-11-05:13:52:09]	60853
+[2019-11-05:13:52:09]	n

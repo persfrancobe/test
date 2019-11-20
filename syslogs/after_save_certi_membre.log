@@ -1,0 +1,6 @@
+[2019-11-05:10:19:43]	after_save_certi_membre
+[2019-11-05:10:19:43]	7688
+[2019-11-05:10:19:43]					UPDATE members
+					SET token = 'PF38u1i1Yng68kwSo6ymUKj1bQnKPxmUshlb8FA8C4T61tmS8v'
+					WHERE id = '7688'
+

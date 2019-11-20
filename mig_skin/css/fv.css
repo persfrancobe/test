@@ -1,0 +1,24 @@
+
+/* alerts (when validation fails) */
+.item .alert{ float:left; margin:0 0 0 20px; padding:3px 10px; color:#FFF; border-radius:3px 4px 4px 3px; background-color:#CE5454; white-space:pre; position:relative; left:-15px; opacity:0; z-index:1; transition:0.15s ease-out; }
+/*.item .alert::after{ content:''; display:block; height:0; width:0; border-color:transparent #CE5454 transparent transparent; border-style:solid; border-width:11px 7px; position:absolute; left:-13px; top:1px; }*/
+.item.bad .alert{ left:0; opacity:1; }
+
+
+@keyframes shake{
+    15%{ transform:translateX(-5px); }
+    30%{ transform:translateX(5px); }
+	45%{ transform:translateX(-3px); }
+	60%{ transform:translateX(3px); }
+	75%{ transform:translateX(2px); }
+	100%{ transform:none; }
+}
+@-webkit-keyframes shake{
+    25%{ -webkit-transform:translateX(-6px); }
+    75%{ -webkit-transform:translateX(6px); }
+}
+  
+	.bad input, 
+	.bad select, 
+	.bad textarea{ border:1px solid #CE5454; box-shadow:0 0 4px -2px #CE5454; position:relative; left:0; -moz-animation:.7s 1 shake linear; -webkit-animation:0.7s 1 shake linear; }
+    

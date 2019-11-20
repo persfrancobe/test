@@ -1,0 +1,95 @@
+Header unset ETag
+FileETag none
+AddType x-font/otf .otf
+AddType x-font/ttf .ttf
+AddType x-font/eot .eot
+AddType x-font/woff .woff
+SetOutputFilter DEFLATE
+AddOutputFilterByType DEFLATE text/html text/css text/javascript text/plain text/xml application/x-javascript application/x-httpd-php x-font/otf x-font/ttf x-font/eot x-font/woff
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+Header append Vary User-Agent env=!dont-vary
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 29030400 seconds"
+ExpiresByType image/webp "access plus 29030400 seconds"
+ExpiresByType image/jpg "access plus 29030400 seconds"
+ExpiresByType image/jpeg "access plus 29030400 seconds"
+ExpiresByType image/png "access plus 29030400 seconds"
+ExpiresByType image/gif "access plus 29030400 seconds"
+AddType image/x-icon .ico
+ExpiresByType image/ico "access plus 29030400 seconds"
+ExpiresByType image/icon "access plus 29030400 seconds"
+ExpiresByType image/x-icon "access plus 29030400 seconds"
+ExpiresByType text/css "access plus 29030400 seconds"
+ExpiresByType text/javascript "access plus 29030400 seconds"
+ExpiresByType text/html "access plus 7200 seconds"
+ExpiresByType application/xhtml+xml "access plus 7200 seconds"
+ExpiresByType application/javascript "access plus 29030400 seconds"
+ExpiresByType application/x-javascript "access plus 29030400 seconds"
+ExpiresByType application/x-shockwave-flash "access plus 29030400 seconds"
+</IfModule>
+
+<IfModule mod_headers.c>
+<FilesMatch "\\.(ico|jpeg|jpg|png|gif|swf|gz|webp)$">
+Header set Cache-Control "max-age=29030400, public"
+</FilesMatch>
+<FilesMatch "\\.(pl|php|cgi|spl|scgi|fcgi|html|htm|css|js)$">
+#Header unset Cache-Control
+Header Set Pragma "no-cache"
+Header Set Expires "Thu, 1 Jan 1970 00:00:00 GMT"
+Header Set Cache-Control "max-age=0, no-store, no-cache, must-revalidate"
+Header Unset ETag
+FileETag None
+</FilesMatch>
+</IfModule>
+
+<Files ~ "robots\.txt$">
+  Header set X-Robots-Tag "noindex"
+</Files>
+
+<IfModule pagespeed_module>
+    ModPagespeed off
+	ModPagespeedEnableFilters rewrite_css
+	ModPagespeedEnableFilters collapse_whitespace
+	ModPagespeedEnableFilters remove_comments
+	ModPagespeedEnableFilters insert_dns_prefetch
+</IfModule>
+
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.certigreen.be/$1 [L,R=301]
+
+
+RewriteCond %{HTTP_HOST} !^www.certigreen.be$ [NC]
+RewriteRule ^(.*)$ https://www.certigreen.be/$1 [L,R=301]
+
+
+ErrorDocument 404 /
+
+
+
+
+
+
+RewriteRule ^fr/membres/deconnexion$ cgi-bin/members.pl?sw=member_logout_db&lg=1$1
+RewriteRule ^nl/members/uitloggen$ cgi-bin/members.pl?sw=member_logout_db&lg=3$1
+RewriteRule ^fr/membres/acces-page/(.*)/(.*)$ cgi-bin/members.pl?sw=member_login_db&lg=1&token_page=$1&stoken=$2
+RewriteRule ^nl/membres/page-access/(.*)/(.*)$ cgi-bin/members.pl?sw=member_login_db&lg=3&token_page=$1&stoken=$2
+RewriteRule ^fr/membres/desinscription-mailing/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&id_mailing=$1&id_sending=$2&email=$3
+RewriteRule ^fr/membres/desinscription-mailing2/(.*)/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&id_mailing=$1&id_sending=$2&id_page=$3&email=$4&optout=2
+RewriteRule ^nl/membres/desinscription-mailing/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&lg=3&id_mailing=$1&id_sending=$2&email=$3
+RewriteCond %{QUERY_STRING} ^url=(.*)$
+RewriteRule ^fr/membres/autoconnexion/$ cgi-bin/members.pl?sw=autoconnexionbis&url=%1
+RewriteCond %{QUERY_STRING} ^url=(.*)$
+RewriteRule ^fr/membres/autoconnexion/(.*)/$ cgi-bin/members.pl?sw=member_login_db&stoken=$1&url_after_login=%1
+
+ RewriteRule ^$ cache/site/cms/pages/public/1_1_fr-accueil.html

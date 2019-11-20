@@ -1,0 +1,61 @@
+Header unset ETag
+FileETag none
+AddType x-font/otf .otf
+AddType x-font/ttf .ttf
+AddType x-font/eot .eot
+AddType x-font/woff .woff
+SetOutputFilter DEFLATE
+AddOutputFilterByType DEFLATE text/html text/css text/javascript text/plain text/xml application/x-javascript application/x-httpd-php x-font/otf x-font/ttf x-font/eot x-font/woff
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+Header append Vary User-Agent env=!dont-vary
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 29030400 seconds"
+ExpiresByType image/webp "access plus 29030400 seconds"
+ExpiresByType image/jpg "access plus 29030400 seconds"
+ExpiresByType image/jpeg "access plus 29030400 seconds"
+ExpiresByType image/png "access plus 29030400 seconds"
+ExpiresByType image/gif "access plus 29030400 seconds"
+AddType image/x-icon .ico
+ExpiresByType image/ico "access plus 29030400 seconds"
+ExpiresByType image/icon "access plus 29030400 seconds"
+ExpiresByType image/x-icon "access plus 29030400 seconds"
+ExpiresByType text/css "access plus 29030400 seconds"
+ExpiresByType text/javascript "access plus 29030400 seconds"
+ExpiresByType text/html "access plus 7200 seconds"
+ExpiresByType application/xhtml+xml "access plus 7200 seconds"
+ExpiresByType application/javascript "access plus 29030400 seconds"
+ExpiresByType application/x-javascript "access plus 29030400 seconds"
+ExpiresByType application/x-shockwave-flash "access plus 29030400 seconds"
+</IfModule>
+
+<IfModule mod_headers.c>
+<FilesMatch "\\.(ico|jpeg|jpg|png|gif|swf|gz|webp)$">
+Header set Cache-Control "max-age=29030400, public"
+</FilesMatch>
+<FilesMatch "\\.(pl|php|cgi|spl|scgi|fcgi|html|htm|css|js)$">
+#Header unset Cache-Control
+Header Set Pragma "no-cache"
+Header Set Expires "Thu, 1 Jan 1970 00:00:00 GMT"
+Header Set Cache-Control "max-age=0, no-store, no-cache, must-revalidate"
+Header Unset ETag
+FileETag None
+</FilesMatch>
+</IfModule>
+
+<Files ~ "robots\.txt$">
+  Header set X-Robots-Tag "noindex"
+</Files>
+
+<IfModule pagespeed_module>
+    ModPagespeed off
+	ModPagespeedEnableFilters rewrite_css
+	ModPagespeedEnableFilters collapse_whitespace
+	ModPagespeedEnableFilters remove_comments
+	ModPagespeedEnableFilters insert_dns_prefetch
+</IfModule>

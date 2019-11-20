@@ -1,0 +1,95 @@
+[2019-11-05:08:03:52]	update_fusion_facture 22613
+[2019-11-05:08:03:52]	CMD 22613 WOLFS l\' Immolilière D’HONT Rue Laplace Seraing
+[2019-11-05:08:03:52]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22613 WOLFS l\' Immolilière D’HONT Rue Laplace Seraing',nom_facture_liaison='' WHERE id = '22613'
+
+[2019-11-05:08:03:52]	update_fusion_facture ok 22613
+[2019-11-05:08:37:47]	update_fusion_facture 21748
+[2019-11-05:08:37:47]	FA 20191540 ANTOINE PUTSEYS Rue El Cwene Heyd - 130 €
+[2019-11-05:08:37:47]			UPDATE intranet_factures f SET fusion_facture =  'FA 20191540 ANTOINE PUTSEYS Rue El Cwene Heyd - 130 €',nom_facture_liaison='20191540' WHERE id = '21748'
+
+[2019-11-05:08:37:47]	update_fusion_facture ok 21748
+[2019-11-05:09:51:27]	update_fusion_facture 22442
+[2019-11-05:09:51:27]	CMD 22442 COOSECO Colmant Rue Isodore Godfrin Dour
+[2019-11-05:09:51:27]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22442 COOSECO Colmant Rue Isodore Godfrin Dour',nom_facture_liaison='' WHERE id = '22442'
+
+[2019-11-05:09:51:27]	update_fusion_facture ok 22442
+[2019-11-05:09:55:44]	update_fusion_facture 22619
+[2019-11-05:09:55:44]	CMD 22619 IMMO LCP IMMO LCP Rue des Couterelles Fleurus
+[2019-11-05:09:55:44]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22619 IMMO LCP IMMO LCP Rue des Couterelles Fleurus',nom_facture_liaison='' WHERE id = '22619'
+
+[2019-11-05:09:55:44]	update_fusion_facture ok 22619
+[2019-11-05:09:56:02]	update_fusion_facture 22619
+[2019-11-05:09:56:02]	CMD 22619 IMMO LCP IMMO LCP Rue des Couterelles Fleurus
+[2019-11-05:09:56:02]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22619 IMMO LCP IMMO LCP Rue des Couterelles Fleurus',nom_facture_liaison='' WHERE id = '22619'
+
+[2019-11-05:09:56:02]	update_fusion_facture ok 22619
+[2019-11-05:10:02:08]	update_fusion_facture 22473
+[2019-11-05:10:02:08]	CMD 22473 COOSECO SPRL LMM-AIP Rue des Volontaires de Guerre, Saint-ghislain
+[2019-11-05:10:02:08]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22473 COOSECO SPRL LMM-AIP Rue des Volontaires de Guerre, Saint-ghislain',nom_facture_liaison='' WHERE id = '22473'
+
+[2019-11-05:10:02:08]	update_fusion_facture ok 22473
+[2019-11-05:10:07:27]	update_fusion_facture 22620
+[2019-11-05:10:07:27]	CMD 22620  MANZO-DARIMONT Rue de la Buissière Saint-Vaast
+[2019-11-05:10:07:27]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22620  MANZO-DARIMONT Rue de la Buissière Saint-Vaast',nom_facture_liaison='' WHERE id = '22620'
+
+[2019-11-05:10:07:27]	update_fusion_facture ok 22620
+[2019-11-05:10:07:39]	update_fusion_facture 22620
+[2019-11-05:10:07:39]	CMD 22620  MANZO-DARIMONT Rue de la Buissière Saint-Vaast
+[2019-11-05:10:07:39]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22620  MANZO-DARIMONT Rue de la Buissière Saint-Vaast',nom_facture_liaison='' WHERE id = '22620'
+
+[2019-11-05:10:07:39]	update_fusion_facture ok 22620
+[2019-11-05:10:13:11]	update_fusion_facture 22518
+[2019-11-05:10:13:11]	CMD 22518 COOSECO Toubeau Faubourg de Binche Le Roeulx
+[2019-11-05:10:13:11]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22518 COOSECO Toubeau Faubourg de Binche Le Roeulx',nom_facture_liaison='' WHERE id = '22518'
+
+[2019-11-05:10:13:11]	update_fusion_facture ok 22518
+[2019-11-05:10:20:05]	update_fusion_facture 22622
+[2019-11-05:10:20:05]	CMD 22622  SIRDEL Place de Bury Bury
+[2019-11-05:10:20:05]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22622  SIRDEL Place de Bury Bury',nom_facture_liaison='' WHERE id = '22622'
+
+[2019-11-05:10:20:05]	update_fusion_facture ok 22622
+[2019-11-05:11:04:17]	update_fusion_facture 22626
+[2019-11-05:11:04:17]	CMD 22626 RANDAXHE DEBRA Rue de la Clef Fléron
+[2019-11-05:11:04:17]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22626 RANDAXHE DEBRA Rue de la Clef Fléron',nom_facture_liaison='' WHERE id = '22626'
+
+[2019-11-05:11:04:17]	update_fusion_facture ok 22626
+[2019-11-05:11:05:13]	update_fusion_facture 22626
+[2019-11-05:11:05:13]	CMD 22626 RANDAXHE DEBRA Rue de la Clef Fléron
+[2019-11-05:11:05:13]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22626 RANDAXHE DEBRA Rue de la Clef Fléron',nom_facture_liaison='' WHERE id = '22626'
+
+[2019-11-05:11:05:13]	update_fusion_facture ok 22626
+[2019-11-05:11:17:05]	update_fusion_facture 22331
+[2019-11-05:11:17:05]	CMD 22331 CANAVESI - VAN DEN BERG CAN - GRILLO Rue de Horion Roloux
+[2019-11-05:11:17:05]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22331 CANAVESI - VAN DEN BERG CAN - GRILLO Rue de Horion Roloux',nom_facture_liaison='' WHERE id = '22331'
+
+[2019-11-05:11:17:05]	update_fusion_facture ok 22331
+[2019-11-05:11:21:09]	update_fusion_facture 22361
+[2019-11-05:11:21:10]	CMD 22361 NELLESSEN - VACCARI DELWICHE Rue Joseph Wauters Wanze
+[2019-11-05:11:21:10]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22361 NELLESSEN - VACCARI DELWICHE Rue Joseph Wauters Wanze',nom_facture_liaison='' WHERE id = '22361'
+
+[2019-11-05:11:21:10]	update_fusion_facture ok 22361
+[2019-11-05:11:38:04]	update_fusion_facture 22524
+[2019-11-05:11:38:04]	CMD 22524 BODSON VILLE DE SERAING Place Communale Seraing
+[2019-11-05:11:38:04]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22524 BODSON VILLE DE SERAING Place Communale Seraing',nom_facture_liaison='' WHERE id = '22524'
+
+[2019-11-05:11:38:04]	update_fusion_facture ok 22524
+[2019-11-05:11:51:37]	update_fusion_facture 22372
+[2019-11-05:11:51:37]	CMD 22372 MISONNE SUL A NAWEJ Rue du Rouge Fossé Huy
+[2019-11-05:11:51:37]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22372 MISONNE SUL A NAWEJ Rue du Rouge Fossé Huy',nom_facture_liaison='' WHERE id = '22372'
+
+[2019-11-05:11:51:37]	update_fusion_facture ok 22372
+[2019-11-05:12:18:55]	update_fusion_facture 22627
+[2019-11-05:12:18:55]	CMD 22627 ADK IMMO C/O ADK SYNDIC Rue des Fories Liège
+[2019-11-05:12:18:55]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22627 ADK IMMO C/O ADK SYNDIC Rue des Fories Liège',nom_facture_liaison='' WHERE id = '22627'
+
+[2019-11-05:12:18:55]	update_fusion_facture ok 22627
+[2019-11-05:12:20:28]	update_fusion_facture 22627
+[2019-11-05:12:20:28]	CMD 22627 ADK IMMO C/O ADK SYNDIC Rue des Fories Liège
+[2019-11-05:12:20:28]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22627 ADK IMMO C/O ADK SYNDIC Rue des Fories Liège',nom_facture_liaison='' WHERE id = '22627'
+
+[2019-11-05:12:20:28]	update_fusion_facture ok 22627
+[2019-11-05:13:48:58]	update_fusion_facture 22403
+[2019-11-05:13:48:58]	CMD 22403 SCAVEE - MAGHE ROBA Awan Centre Aywaille
+[2019-11-05:13:48:58]			UPDATE intranet_factures f SET fusion_facture =  'CMD 22403 SCAVEE - MAGHE ROBA Awan Centre Aywaille',nom_facture_liaison='' WHERE id = '22403'
+
+[2019-11-05:13:48:58]	update_fusion_facture ok 22403

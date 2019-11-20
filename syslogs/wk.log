@@ -1,0 +1,156 @@
+[2019-11-05:08:03:33]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13279' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013279_temp.pdf;
+[2019-11-05:08:03:33]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13279
+[2019-11-05:08:03:34]	write_pdf_from_url OK
+[2019-11-05:08:29:35]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13156' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013156_temp.pdf;
+[2019-11-05:08:29:35]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13156
+[2019-11-05:08:29:36]	write_pdf_from_url OK
+[2019-11-05:08:31:30]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13153' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013153_temp.pdf;
+[2019-11-05:08:31:30]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13153
+[2019-11-05:08:31:31]	write_pdf_from_url OK
+[2019-11-05:08:31:57]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13154' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013154_temp.pdf;
+[2019-11-05:08:31:57]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13154
+[2019-11-05:08:31:58]	write_pdf_from_url OK
+[2019-11-05:08:37:47]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=21748' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191540_temp.pdf;
+[2019-11-05:08:37:47]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=21748
+[2019-11-05:08:37:49]	write_pdf_from_url OK
+[2019-11-05:08:37:49]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=1' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R10021748_temp.pdf;
+[2019-11-05:08:37:49]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=1
+[2019-11-05:08:37:50]	write_pdf_from_url OK
+[2019-11-05:08:37:50]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=2' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R20021748_temp.pdf;
+[2019-11-05:08:37:50]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=2
+[2019-11-05:08:37:51]	write_pdf_from_url OK
+[2019-11-05:08:37:51]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=3' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R30021748_temp.pdf;
+[2019-11-05:08:37:51]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=3
+[2019-11-05:08:37:51]	write_pdf_from_url OK
+[2019-11-05:08:38:23]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12184' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012184_temp.pdf;
+[2019-11-05:08:38:23]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12184
+[2019-11-05:08:38:24]	write_pdf_from_url OK
+[2019-11-05:08:41:13]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13000' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013000_temp.pdf;
+[2019-11-05:08:41:13]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13000
+[2019-11-05:08:41:14]	write_pdf_from_url OK
+[2019-11-05:08:43:35]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13142' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013142_temp.pdf;
+[2019-11-05:08:43:35]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13142
+[2019-11-05:08:43:36]	write_pdf_from_url OK
+[2019-11-05:08:43:58]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13143' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013143_temp.pdf;
+[2019-11-05:08:43:58]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13143
+[2019-11-05:08:43:59]	write_pdf_from_url OK
+[2019-11-05:08:47:12]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12750' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012750_temp.pdf;
+[2019-11-05:08:47:12]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12750
+[2019-11-05:08:47:13]	write_pdf_from_url OK
+[2019-11-05:08:48:14]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12443' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012443_temp.pdf;
+[2019-11-05:08:48:14]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12443
+[2019-11-05:08:48:15]	write_pdf_from_url OK
+[2019-11-05:08:48:27]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12440' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012440_temp.pdf;
+[2019-11-05:08:48:27]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12440
+[2019-11-05:08:48:28]	write_pdf_from_url OK
+[2019-11-05:08:48:38]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12418' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012418_temp.pdf;
+[2019-11-05:08:48:38]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12418
+[2019-11-05:08:48:39]	write_pdf_from_url OK
+[2019-11-05:09:51:59]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22442' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191773_temp.pdf;
+[2019-11-05:09:51:59]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22442
+[2019-11-05:09:52:00]	write_pdf_from_url OK
+[2019-11-05:09:54:01]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13169' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013169_temp.pdf;
+[2019-11-05:09:54:01]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13169
+[2019-11-05:09:54:03]	write_pdf_from_url OK
+[2019-11-05:09:56:36]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22619' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191774_temp.pdf;
+[2019-11-05:09:56:36]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22619
+[2019-11-05:09:56:38]	write_pdf_from_url OK
+[2019-11-05:09:58:06]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13280' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013280_temp.pdf;
+[2019-11-05:09:58:06]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13280
+[2019-11-05:09:58:07]	write_pdf_from_url OK
+[2019-11-05:10:02:37]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22473' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191775_temp.pdf;
+[2019-11-05:10:02:37]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22473
+[2019-11-05:10:02:38]	write_pdf_from_url OK
+[2019-11-05:10:04:26]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13180' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013180_temp.pdf;
+[2019-11-05:10:04:26]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13180
+[2019-11-05:10:04:28]	write_pdf_from_url OK
+[2019-11-05:10:04:39]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13180' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013180_temp.pdf;
+[2019-11-05:10:04:39]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13180
+[2019-11-05:10:04:40]	write_pdf_from_url OK
+[2019-11-05:10:08:05]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22620' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191776_temp.pdf;
+[2019-11-05:10:08:05]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22620
+[2019-11-05:10:08:06]	write_pdf_from_url OK
+[2019-11-05:10:09:50]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13281' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013281_temp.pdf;
+[2019-11-05:10:09:50]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13281
+[2019-11-05:10:09:51]	write_pdf_from_url OK
+[2019-11-05:10:13:36]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22518' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191777_temp.pdf;
+[2019-11-05:10:13:36]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22518
+[2019-11-05:10:13:37]	write_pdf_from_url OK
+[2019-11-05:10:22:07]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13220' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013220_temp.pdf;
+[2019-11-05:10:22:07]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13220
+[2019-11-05:10:22:08]	write_pdf_from_url OK
+[2019-11-05:10:24:54]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=7264' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0007264_temp.pdf;
+[2019-11-05:10:24:54]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=7264
+[2019-11-05:10:24:55]	write_pdf_from_url OK
+[2019-11-05:10:32:33]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13282' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013282_temp.pdf;
+[2019-11-05:10:32:33]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13282
+[2019-11-05:10:32:34]	write_pdf_from_url OK
+[2019-11-05:10:54:27]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13067' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013067_temp.pdf;
+[2019-11-05:10:54:27]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13067
+[2019-11-05:10:54:28]	write_pdf_from_url OK
+[2019-11-05:10:58:27]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13118' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013118_temp.pdf;
+[2019-11-05:10:58:27]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13118
+[2019-11-05:10:58:28]	write_pdf_from_url OK
+[2019-11-05:11:01:01]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13086' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013086_temp.pdf;
+[2019-11-05:11:01:01]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13086
+[2019-11-05:11:01:02]	write_pdf_from_url OK
+[2019-11-05:11:06:04]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22626' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191778_temp.pdf;
+[2019-11-05:11:06:04]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22626
+[2019-11-05:11:06:06]	write_pdf_from_url OK
+[2019-11-05:11:07:50]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13287' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013287_temp.pdf;
+[2019-11-05:11:07:50]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13287
+[2019-11-05:11:07:51]	write_pdf_from_url OK
+[2019-11-05:11:11:03]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13285' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013285_temp.pdf;
+[2019-11-05:11:11:03]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13285
+[2019-11-05:11:11:04]	write_pdf_from_url OK
+[2019-11-05:11:12:21]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13286' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013286_temp.pdf;
+[2019-11-05:11:12:21]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13286
+[2019-11-05:11:12:22]	write_pdf_from_url OK
+[2019-11-05:11:17:54]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22331' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191779_temp.pdf;
+[2019-11-05:11:17:54]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22331
+[2019-11-05:11:17:56]	write_pdf_from_url OK
+[2019-11-05:11:19:34]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13076' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013076_temp.pdf;
+[2019-11-05:11:19:34]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13076
+[2019-11-05:11:19:35]	write_pdf_from_url OK
+[2019-11-05:11:21:55]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22361' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191780_temp.pdf;
+[2019-11-05:11:21:55]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22361
+[2019-11-05:11:21:56]	write_pdf_from_url OK
+[2019-11-05:11:24:00]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13099' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013099_temp.pdf;
+[2019-11-05:11:24:00]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13099
+[2019-11-05:11:24:01]	write_pdf_from_url OK
+[2019-11-05:11:38:57]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22524' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191781_temp.pdf;
+[2019-11-05:11:38:57]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22524
+[2019-11-05:11:38:59]	write_pdf_from_url OK
+[2019-11-05:11:40:31]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13227' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013227_temp.pdf;
+[2019-11-05:11:40:31]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13227
+[2019-11-05:11:40:32]	write_pdf_from_url OK
+[2019-11-05:11:52:14]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22372' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191782_temp.pdf;
+[2019-11-05:11:52:14]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22372
+[2019-11-05:11:52:16]	write_pdf_from_url OK
+[2019-11-05:12:00:13]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13114' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013114_temp.pdf;
+[2019-11-05:12:00:13]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13114
+[2019-11-05:12:00:14]	write_pdf_from_url OK
+[2019-11-05:12:12:19]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13255' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013255_temp.pdf;
+[2019-11-05:12:12:19]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13255
+[2019-11-05:12:12:20]	write_pdf_from_url OK
+[2019-11-05:12:21:18]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22627' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191783_temp.pdf;
+[2019-11-05:12:21:18]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22627
+[2019-11-05:12:21:20]	write_pdf_from_url OK
+[2019-11-05:12:22:20]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13288' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013288_temp.pdf;
+[2019-11-05:12:22:20]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13288
+[2019-11-05:12:22:21]	write_pdf_from_url OK
+[2019-11-05:12:22:28]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13288' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013288_temp.pdf;
+[2019-11-05:12:22:28]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13288
+[2019-11-05:12:22:29]	write_pdf_from_url OK
+[2019-11-05:13:12:34]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=11936' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0011936_temp.pdf;
+[2019-11-05:13:12:34]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=11936
+[2019-11-05:13:12:35]	write_pdf_from_url OK
+[2019-11-05:13:14:06]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13181' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013181_temp.pdf;
+[2019-11-05:13:14:06]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13181
+[2019-11-05:13:14:07]	write_pdf_from_url OK
+[2019-11-05:13:49:47]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22403' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191784_temp.pdf;
+[2019-11-05:13:49:47]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22403
+[2019-11-05:13:49:49]	write_pdf_from_url OK
+[2019-11-05:13:52:12]	/usr/local/bin/wkhtmltopdf --lowquality --print-media-type --no-header-line --no-footer-line 'http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13138' /var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013138_temp.pdf;
+[2019-11-05:13:52:12]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13138
+[2019-11-05:13:52:14]	write_pdf_from_url OK

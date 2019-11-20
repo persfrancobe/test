@@ -1,0 +1,164 @@
+[2019-11-05:08:03:52]	save_doc_facture_calcule_echeance
+[2019-11-05:08:03:52]	erreur date factu:0000-00-00
+[2019-11-05:08:37:47]	save_doc_facture_calcule_echeance
+[2019-11-05:08:37:47]	$nb_jours:8
+[2019-11-05:08:37:47]	$facture{delai}:100000002
+[2019-11-05:08:37:47]	$facture{delai_autre}:
+[2019-11-05:08:37:47]	$sql_date_limite:2019-10-03
+[2019-11-05:08:37:47]	$stmt:update intranet_factures SET date_echeance='2019-10-03' WHERE id = '21748' 
+[2019-11-05:08:37:47]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '21748' 
+[2019-11-05:08:37:47]	save_doc_facture_calcule_echeance OK
+[2019-11-05:09:51:27]	save_doc_facture_calcule_echeance
+[2019-11-05:09:51:27]	erreur date factu:0000-00-00
+[2019-11-05:09:51:58]	save_doc_facture_calcule_date_facturation
+[2019-11-05:09:51:58]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:09:51:58]	save_doc_facture_calcule_echeance
+[2019-11-05:09:51:58]	$nb_jours:8
+[2019-11-05:09:51:58]	$facture{delai}:1
+[2019-11-05:09:51:58]	$facture{delai_autre}:
+[2019-11-05:09:51:58]	$sql_date_limite:2019-11-13
+[2019-11-05:09:51:58]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22442' 
+[2019-11-05:09:51:58]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22442' 
+[2019-11-05:09:51:58]	save_doc_facture_calcule_echeance OK
+[2019-11-05:09:55:44]	save_doc_facture_calcule_echeance
+[2019-11-05:09:55:44]	erreur date factu:0000-00-00
+[2019-11-05:09:56:02]	save_doc_facture_calcule_echeance
+[2019-11-05:09:56:02]	erreur date factu:0000-00-00
+[2019-11-05:09:56:36]	save_doc_facture_calcule_date_facturation
+[2019-11-05:09:56:36]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:09:56:36]	save_doc_facture_calcule_echeance
+[2019-11-05:09:56:36]	$nb_jours:8
+[2019-11-05:09:56:36]	$facture{delai}:1
+[2019-11-05:09:56:36]	$facture{delai_autre}:
+[2019-11-05:09:56:36]	$sql_date_limite:2019-11-13
+[2019-11-05:09:56:36]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22619' 
+[2019-11-05:09:56:36]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22619' 
+[2019-11-05:09:56:36]	save_doc_facture_calcule_echeance OK
+[2019-11-05:10:02:08]	save_doc_facture_calcule_echeance
+[2019-11-05:10:02:08]	erreur date factu:0000-00-00
+[2019-11-05:10:02:36]	save_doc_facture_calcule_date_facturation
+[2019-11-05:10:02:36]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:10:02:36]	save_doc_facture_calcule_echeance
+[2019-11-05:10:02:36]	$nb_jours:8
+[2019-11-05:10:02:36]	$facture{delai}:1
+[2019-11-05:10:02:36]	$facture{delai_autre}:
+[2019-11-05:10:02:36]	$sql_date_limite:2019-11-13
+[2019-11-05:10:02:36]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22473' 
+[2019-11-05:10:02:36]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22473' 
+[2019-11-05:10:02:36]	save_doc_facture_calcule_echeance OK
+[2019-11-05:10:07:27]	save_doc_facture_calcule_echeance
+[2019-11-05:10:07:27]	erreur date factu:0000-00-00
+[2019-11-05:10:07:39]	save_doc_facture_calcule_echeance
+[2019-11-05:10:07:39]	erreur date factu:0000-00-00
+[2019-11-05:10:08:04]	save_doc_facture_calcule_date_facturation
+[2019-11-05:10:08:04]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:10:08:04]	save_doc_facture_calcule_echeance
+[2019-11-05:10:08:04]	$nb_jours:8
+[2019-11-05:10:08:04]	$facture{delai}:1
+[2019-11-05:10:08:04]	$facture{delai_autre}:
+[2019-11-05:10:08:04]	$sql_date_limite:2019-11-13
+[2019-11-05:10:08:04]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22620' 
+[2019-11-05:10:08:04]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22620' 
+[2019-11-05:10:08:04]	save_doc_facture_calcule_echeance OK
+[2019-11-05:10:13:11]	save_doc_facture_calcule_echeance
+[2019-11-05:10:13:11]	erreur date factu:0000-00-00
+[2019-11-05:10:13:35]	save_doc_facture_calcule_date_facturation
+[2019-11-05:10:13:35]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:10:13:35]	save_doc_facture_calcule_echeance
+[2019-11-05:10:13:35]	$nb_jours:8
+[2019-11-05:10:13:35]	$facture{delai}:1
+[2019-11-05:10:13:35]	$facture{delai_autre}:
+[2019-11-05:10:13:35]	$sql_date_limite:2019-11-13
+[2019-11-05:10:13:35]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22518' 
+[2019-11-05:10:13:35]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22518' 
+[2019-11-05:10:13:35]	save_doc_facture_calcule_echeance OK
+[2019-11-05:10:20:05]	save_doc_facture_calcule_echeance
+[2019-11-05:10:20:05]	erreur date factu:0000-00-00
+[2019-11-05:11:04:17]	save_doc_facture_calcule_echeance
+[2019-11-05:11:04:17]	erreur date factu:0000-00-00
+[2019-11-05:11:05:13]	save_doc_facture_calcule_echeance
+[2019-11-05:11:05:13]	erreur date factu:0000-00-00
+[2019-11-05:11:06:04]	save_doc_facture_calcule_date_facturation
+[2019-11-05:11:06:04]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:11:06:04]	save_doc_facture_calcule_echeance
+[2019-11-05:11:06:04]	$nb_jours:8
+[2019-11-05:11:06:04]	$facture{delai}:1
+[2019-11-05:11:06:04]	$facture{delai_autre}:
+[2019-11-05:11:06:04]	$sql_date_limite:2019-11-13
+[2019-11-05:11:06:04]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22626' 
+[2019-11-05:11:06:04]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22626' 
+[2019-11-05:11:06:04]	save_doc_facture_calcule_echeance OK
+[2019-11-05:11:17:05]	save_doc_facture_calcule_echeance
+[2019-11-05:11:17:05]	erreur date factu:0000-00-00
+[2019-11-05:11:17:54]	save_doc_facture_calcule_date_facturation
+[2019-11-05:11:17:54]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:11:17:54]	save_doc_facture_calcule_echeance
+[2019-11-05:11:17:54]	$nb_jours:8
+[2019-11-05:11:17:54]	$facture{delai}:1
+[2019-11-05:11:17:54]	$facture{delai_autre}:
+[2019-11-05:11:17:54]	$sql_date_limite:2019-11-13
+[2019-11-05:11:17:54]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22331' 
+[2019-11-05:11:17:54]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22331' 
+[2019-11-05:11:17:54]	save_doc_facture_calcule_echeance OK
+[2019-11-05:11:21:09]	save_doc_facture_calcule_echeance
+[2019-11-05:11:21:09]	erreur date factu:0000-00-00
+[2019-11-05:11:21:54]	save_doc_facture_calcule_date_facturation
+[2019-11-05:11:21:54]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:11:21:54]	save_doc_facture_calcule_echeance
+[2019-11-05:11:21:54]	$nb_jours:8
+[2019-11-05:11:21:54]	$facture{delai}:1
+[2019-11-05:11:21:54]	$facture{delai_autre}:
+[2019-11-05:11:21:54]	$sql_date_limite:2019-11-13
+[2019-11-05:11:21:54]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22361' 
+[2019-11-05:11:21:54]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22361' 
+[2019-11-05:11:21:54]	save_doc_facture_calcule_echeance OK
+[2019-11-05:11:38:04]	save_doc_facture_calcule_echeance
+[2019-11-05:11:38:04]	erreur date factu:0000-00-00
+[2019-11-05:11:38:57]	save_doc_facture_calcule_date_facturation
+[2019-11-05:11:38:57]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:11:38:57]	save_doc_facture_calcule_echeance
+[2019-11-05:11:38:57]	$nb_jours:8
+[2019-11-05:11:38:57]	$facture{delai}:1
+[2019-11-05:11:38:57]	$facture{delai_autre}:
+[2019-11-05:11:38:57]	$sql_date_limite:2019-11-13
+[2019-11-05:11:38:57]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22524' 
+[2019-11-05:11:38:57]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22524' 
+[2019-11-05:11:38:57]	save_doc_facture_calcule_echeance OK
+[2019-11-05:11:51:37]	save_doc_facture_calcule_echeance
+[2019-11-05:11:51:37]	erreur date factu:0000-00-00
+[2019-11-05:11:52:14]	save_doc_facture_calcule_date_facturation
+[2019-11-05:11:52:14]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:11:52:14]	save_doc_facture_calcule_echeance
+[2019-11-05:11:52:14]	$nb_jours:8
+[2019-11-05:11:52:14]	$facture{delai}:1
+[2019-11-05:11:52:14]	$facture{delai_autre}:
+[2019-11-05:11:52:14]	$sql_date_limite:2019-11-13
+[2019-11-05:11:52:14]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22372' 
+[2019-11-05:11:52:14]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22372' 
+[2019-11-05:11:52:14]	save_doc_facture_calcule_echeance OK
+[2019-11-05:12:18:55]	save_doc_facture_calcule_echeance
+[2019-11-05:12:18:55]	erreur date factu:0000-00-00
+[2019-11-05:12:20:28]	save_doc_facture_calcule_echeance
+[2019-11-05:12:20:28]	erreur date factu:0000-00-00
+[2019-11-05:12:21:18]	save_doc_facture_calcule_date_facturation
+[2019-11-05:12:21:18]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:12:21:18]	save_doc_facture_calcule_echeance
+[2019-11-05:12:21:18]	$nb_jours:8
+[2019-11-05:12:21:18]	$facture{delai}:1
+[2019-11-05:12:21:18]	$facture{delai_autre}:
+[2019-11-05:12:21:18]	$sql_date_limite:2019-11-13
+[2019-11-05:12:21:18]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22627' 
+[2019-11-05:12:21:18]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22627' 
+[2019-11-05:12:21:18]	save_doc_facture_calcule_echeance OK
+[2019-11-05:13:48:58]	save_doc_facture_calcule_echeance
+[2019-11-05:13:48:58]	erreur date factu:0000-00-00
+[2019-11-05:13:49:47]	save_doc_facture_calcule_date_facturation
+[2019-11-05:13:49:47]	save_doc_facture_calcule_date_facturation OK
+[2019-11-05:13:49:47]	save_doc_facture_calcule_echeance
+[2019-11-05:13:49:47]	$nb_jours:8
+[2019-11-05:13:49:47]	$facture{delai}:1
+[2019-11-05:13:49:47]	$facture{delai_autre}:
+[2019-11-05:13:49:47]	$sql_date_limite:2019-11-13
+[2019-11-05:13:49:47]	$stmt:update intranet_factures SET date_echeance='2019-11-13' WHERE id = '22403' 
+[2019-11-05:13:49:47]	$stmt:UPDATE intranet_factures SET nbjours_echeance = DATEDIFF(date_echeance,date_facturation)  WHERE id = '22403' 
+[2019-11-05:13:49:47]	save_doc_facture_calcule_echeance OK

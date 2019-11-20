@@ -1,0 +1,48 @@
+[2019-11-05:09:51:59]	save_doc_facture_commission
+[2019-11-05:09:51:59]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:09:51:59]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',13,' WHERE id='22442'
+
+[2019-11-05:09:56:36]	save_doc_facture_commission
+[2019-11-05:09:56:36]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:09:56:36]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',17,' WHERE id='22619'
+
+[2019-11-05:10:02:37]	save_doc_facture_commission
+[2019-11-05:10:02:37]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:10:02:37]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',17,' WHERE id='22473'
+
+[2019-11-05:10:08:04]	save_doc_facture_commission
+[2019-11-05:10:08:05]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:10:08:05]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',13,' WHERE id='22620'
+
+[2019-11-05:10:13:36]	save_doc_facture_commission
+[2019-11-05:10:13:36]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:10:13:36]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',13,' WHERE id='22518'
+
+[2019-11-05:11:06:04]	save_doc_facture_commission
+[2019-11-05:11:06:04]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:11:06:04]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',11,' WHERE id='22626'
+
+[2019-11-05:11:17:54]	save_doc_facture_commission
+[2019-11-05:11:17:54]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:11:17:54]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',13,' WHERE id='22331'
+
+[2019-11-05:11:21:54]	save_doc_facture_commission
+[2019-11-05:11:21:54]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:11:21:54]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',11,' WHERE id='22361'
+
+[2019-11-05:11:38:57]	save_doc_facture_commission
+[2019-11-05:11:38:57]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:11:38:57]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',11,' WHERE id='22524'
+
+[2019-11-05:11:52:14]	save_doc_facture_commission
+[2019-11-05:11:52:14]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:11:52:14]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',13,' WHERE id='22372'
+
+[2019-11-05:12:21:18]	save_doc_facture_commission
+[2019-11-05:12:21:18]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:12:21:18]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',17,' WHERE id='22627'
+
+[2019-11-05:13:49:47]	save_doc_facture_commission
+[2019-11-05:13:49:47]	if(0 == 0 && 0 > 0 && 0 > 0)
+[2019-11-05:13:49:47]					UPDATE intranet_factures SET delai = '100000002',envoyee_a = ',13,' WHERE id='22403'
+

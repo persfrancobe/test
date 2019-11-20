@@ -1,0 +1,6 @@
+id,keyword,visible,lg1,lg1_url,lg2,lg2_url,lg3,lg3_url,lg4,lg5,type,description,lg6,lg7,lg8,lg9,lg10,ordby
+1,member_signup,y,inscription,*(.*)$ cgi-bin/members.pl?sw=member_signup&lg=1,signup,*(.*)$ cgi-bin/members.pl?sw=member_signup&lg=2,registratie,*(.*)$ cgi-bin/members.pl?sw=member_signup&lg=3,,,,,,,,,,
+2,member_logout,y,deconnexion,*(.*)$ cgi-bin/members.pl?sw=member_logout_db&lg=1,logout,*(.*)$ cgi-bin/members.pl?sw=member_logout_db&lg=2,uitloggen,*(.*)$ cgi-bin/members.pl?sw=member_logout_db&lg=3,,,,,,,,,,
+3,member_signup_revendeur,y,revendeur/inscription,*(.*)$ cgi-bin/members.pl?sw=member_signup&lg=1&type=revendeur,seller/signup,*(.*)$ cgi-bin/members.pl?sw=member_signup&lg=2&type=revendeur,verkoper/registratie,*(.*)$ cgi-bin/members.pl?sw=member_signup&lg=3&type=revendeur,,,,,,,,,,
+4,member_account,y,mon-compte,*(.*)$ cgi-bin/members.pl?sw=account&lg=1,my-account,*(.*)$ cgi-bin/members.pl?sw=account&lg=2,mijn-rekening,*(.*)$ cgi-bin/members.pl?sw=account&lg=3,,,,,,,,,,
+4,member_login,y,connexion,*(.*)$ cgi-bin/members.pl?sw=login_form&lg=1,login,*(.*)$ cgi-bin/members.pl?sw=login_form&lg=2,identificatie,*(.*)$ cgi-bin/members.pl?sw=login_form&lg=3,,,,,,,,,,

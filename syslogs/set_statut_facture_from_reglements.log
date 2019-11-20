@@ -1,0 +1,247 @@
+[2019-11-05:08:03:52]	22613
+[2019-11-05:08:03:52]	
+[2019-11-05:08:24:47]	15115
+[2019-11-05:08:24:47]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '15115' 
+[2019-11-05:08:24:47]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:08:24:47]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '15115' 
+[2019-11-05:08:25:14]	20657
+[2019-11-05:08:25:14]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '20657' 
+[2019-11-05:08:25:14]	181.50 <= 181.50 && 181.50 > 0
+[2019-11-05:08:25:14]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '20657' 
+[2019-11-05:08:25:34]	21705
+[2019-11-05:08:25:34]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21705' 
+[2019-11-05:08:25:34]	181.50 <= 181.50 && 181.50 > 0
+[2019-11-05:08:25:34]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21705' 
+[2019-11-05:08:26:02]	20937
+[2019-11-05:08:26:02]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '20937' 
+[2019-11-05:08:26:02]	181.50 <= 181.50 && 181.50 > 0
+[2019-11-05:08:26:02]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '20937' 
+[2019-11-05:08:26:29]	21756
+[2019-11-05:08:26:29]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21756' 
+[2019-11-05:08:26:29]	458.59 <= 458.59 && 458.59 > 0
+[2019-11-05:08:26:29]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21756' 
+[2019-11-05:08:26:51]	21443
+[2019-11-05:08:26:51]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21443' 
+[2019-11-05:08:26:51]	272.25 <= 272.25 && 272.25 > 0
+[2019-11-05:08:26:51]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21443' 
+[2019-11-05:08:27:10]	21708
+[2019-11-05:08:27:10]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21708' 
+[2019-11-05:08:27:10]	314.60 <= 314.60 && 314.60 > 0
+[2019-11-05:08:27:10]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21708' 
+[2019-11-05:08:28:14]	22427
+[2019-11-05:08:28:14]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22427' 
+[2019-11-05:08:28:14]	325.01 <= 325.01 && 325.01 > 0
+[2019-11-05:08:28:14]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22427' 
+[2019-11-05:08:31:15]	22426
+[2019-11-05:08:31:15]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22426' 
+[2019-11-05:08:31:15]	400.00 <= 400.00 && 400.00 > 0
+[2019-11-05:08:31:15]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22426' 
+[2019-11-05:08:32:50]	21702
+[2019-11-05:08:32:50]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21702' 
+[2019-11-05:08:32:50]	623.15 <= 623.15 && 623.15 > 0
+[2019-11-05:08:32:50]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21702' 
+[2019-11-05:08:33:12]	22440
+[2019-11-05:08:33:12]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22440' 
+[2019-11-05:08:33:12]	363.00 <= 363.00 && 363.00 > 0
+[2019-11-05:08:33:12]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22440' 
+[2019-11-05:08:33:32]	22445
+[2019-11-05:08:33:32]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22445' 
+[2019-11-05:08:33:32]	266.20 <= 266.20 && 266.20 > 0
+[2019-11-05:08:33:32]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22445' 
+[2019-11-05:08:34:42]	18666
+[2019-11-05:08:34:42]	update intranet_factures SET statut = '3' WHERE id = '18666' 
+[2019-11-05:08:34:42]	130.00 > 68.00 && 68.00 > 0
+[2019-11-05:08:35:05]	22336
+[2019-11-05:08:35:05]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22336' 
+[2019-11-05:08:35:05]	102.86 <= 102.86 && 102.86 > 0
+[2019-11-05:08:35:05]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22336' 
+[2019-11-05:08:35:24]	22061
+[2019-11-05:08:35:24]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22061' 
+[2019-11-05:08:35:24]	102.86 <= 102.86 && 102.86 > 0
+[2019-11-05:08:35:24]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22061' 
+[2019-11-05:08:36:28]	19595
+[2019-11-05:08:36:28]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '19595' 
+[2019-11-05:08:36:28]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:08:36:28]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '19595' 
+[2019-11-05:08:36:47]	21506
+[2019-11-05:08:36:47]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21506' 
+[2019-11-05:08:36:47]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:08:36:47]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21506' 
+[2019-11-05:08:37:47]	21748
+[2019-11-05:08:37:47]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21748' 
+[2019-11-05:08:37:47]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:08:37:47]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21748' 
+[2019-11-05:08:38:11]	20755
+[2019-11-05:08:38:11]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '20755' 
+[2019-11-05:08:38:11]	150.00 <= 150.00 && 150.00 > 0
+[2019-11-05:08:38:11]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '20755' 
+[2019-11-05:08:41:43]	22204
+[2019-11-05:08:41:43]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22204' 
+[2019-11-05:08:41:43]	250.00 <= 250.00 && 250.00 > 0
+[2019-11-05:08:41:43]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22204' 
+[2019-11-05:08:42:01]	21913
+[2019-11-05:08:42:01]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21913' 
+[2019-11-05:08:42:01]	300.02 <= 300.02 && 300.02 > 0
+[2019-11-05:08:42:01]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21913' 
+[2019-11-05:08:43:14]	22411
+[2019-11-05:08:43:14]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22411' 
+[2019-11-05:08:43:14]	325.01 <= 325.01 && 325.01 > 0
+[2019-11-05:08:43:14]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22411' 
+[2019-11-05:08:45:19]	22479
+[2019-11-05:08:45:19]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22479' 
+[2019-11-05:08:45:19]	490.05 <= 490.05 && 490.05 > 0
+[2019-11-05:08:45:19]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22479' 
+[2019-11-05:08:45:43]	17180
+[2019-11-05:08:45:43]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '17180' 
+[2019-11-05:08:45:43]	760.00 <= 760.00 && 760.00 > 0
+[2019-11-05:08:45:43]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '17180' 
+[2019-11-05:08:46:40]	22527
+[2019-11-05:08:46:40]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22527' 
+[2019-11-05:08:46:40]	90.00 <= 90.00 && 90.00 > 0
+[2019-11-05:08:46:40]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22527' 
+[2019-11-05:08:46:59]	21771
+[2019-11-05:08:46:59]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21771' 
+[2019-11-05:08:46:59]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:08:46:59]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21771' 
+[2019-11-05:08:47:55]	21222
+[2019-11-05:08:47:55]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21222' 
+[2019-11-05:08:47:55]	225.00 <= 225.00 && 225.00 > 0
+[2019-11-05:08:47:55]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21222' 
+[2019-11-05:08:49:41]	20871
+[2019-11-05:08:49:41]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '20871' 
+[2019-11-05:08:49:41]	238.37 <= 238.37 && 238.37 > 0
+[2019-11-05:08:49:41]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '20871' 
+[2019-11-05:08:49:57]	20870
+[2019-11-05:08:49:57]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '20870' 
+[2019-11-05:08:49:57]	246.84 <= 246.84 && 246.84 > 0
+[2019-11-05:08:49:57]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '20870' 
+[2019-11-05:08:50:20]	20869
+[2019-11-05:08:50:20]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '20869' 
+[2019-11-05:08:50:20]	271.04 <= 271.04 && 271.04 > 0
+[2019-11-05:08:50:20]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '20869' 
+[2019-11-05:08:50:41]	21722
+[2019-11-05:08:50:41]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21722' 
+[2019-11-05:08:50:41]	331.54 <= 331.54 && 331.54 > 0
+[2019-11-05:08:50:41]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21722' 
+[2019-11-05:08:51:01]	22478
+[2019-11-05:08:51:01]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22478' 
+[2019-11-05:08:51:01]	490.05 <= 490.05 && 490.05 > 0
+[2019-11-05:08:51:01]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22478' 
+[2019-11-05:09:51:27]	22442
+[2019-11-05:09:51:27]	
+[2019-11-05:09:51:59]	22442
+[2019-11-05:09:51:59]	update intranet_factures SET statut = '2' WHERE id = '22442' 
+[2019-11-05:09:51:59]	130.00
+[2019-11-05:09:51:59]	0.00
+[2019-11-05:09:55:44]	22619
+[2019-11-05:09:55:44]	
+[2019-11-05:09:56:02]	22619
+[2019-11-05:09:56:02]	
+[2019-11-05:09:56:36]	22619
+[2019-11-05:09:56:36]	update intranet_factures SET statut = '2' WHERE id = '22619' 
+[2019-11-05:09:56:36]	102.86
+[2019-11-05:09:56:36]	0.00
+[2019-11-05:10:02:08]	22473
+[2019-11-05:10:02:08]	
+[2019-11-05:10:02:37]	22473
+[2019-11-05:10:02:37]	update intranet_factures SET statut = '2' WHERE id = '22473' 
+[2019-11-05:10:02:37]	130.00
+[2019-11-05:10:02:37]	0.00
+[2019-11-05:10:07:27]	22620
+[2019-11-05:10:07:27]	
+[2019-11-05:10:07:39]	22620
+[2019-11-05:10:07:39]	
+[2019-11-05:10:08:05]	22620
+[2019-11-05:10:08:05]	update intranet_factures SET statut = '2' WHERE id = '22620' 
+[2019-11-05:10:08:05]	130.00
+[2019-11-05:10:08:05]	0.00
+[2019-11-05:10:13:11]	22518
+[2019-11-05:10:13:11]	
+[2019-11-05:10:13:36]	22518
+[2019-11-05:10:13:36]	update intranet_factures SET statut = '2' WHERE id = '22518' 
+[2019-11-05:10:13:36]	130.00
+[2019-11-05:10:13:36]	0.00
+[2019-11-05:10:20:05]	22622
+[2019-11-05:10:20:05]	
+[2019-11-05:11:04:17]	22626
+[2019-11-05:11:04:17]	
+[2019-11-05:11:05:13]	22626
+[2019-11-05:11:05:13]	
+[2019-11-05:11:06:04]	22626
+[2019-11-05:11:06:04]	update intranet_factures SET statut = '2' WHERE id = '22626' 
+[2019-11-05:11:06:04]	325.01
+[2019-11-05:11:06:04]	0.00
+[2019-11-05:11:17:05]	22331
+[2019-11-05:11:17:05]	
+[2019-11-05:11:17:54]	22331
+[2019-11-05:11:17:54]	update intranet_factures SET statut = '2' WHERE id = '22331' 
+[2019-11-05:11:17:54]	380.00
+[2019-11-05:11:17:54]	0.00
+[2019-11-05:11:21:09]	22361
+[2019-11-05:11:21:09]	
+[2019-11-05:11:21:55]	22361
+[2019-11-05:11:21:55]	update intranet_factures SET statut = '2' WHERE id = '22361' 
+[2019-11-05:11:21:55]	380.00
+[2019-11-05:11:21:55]	0.00
+[2019-11-05:11:38:04]	22524
+[2019-11-05:11:38:04]	
+[2019-11-05:11:38:57]	22524
+[2019-11-05:11:38:57]	update intranet_factures SET statut = '2' WHERE id = '22524' 
+[2019-11-05:11:38:57]	380.00
+[2019-11-05:11:38:57]	0.00
+[2019-11-05:11:51:37]	22372
+[2019-11-05:11:51:37]	
+[2019-11-05:11:52:14]	22372
+[2019-11-05:11:52:14]	update intranet_factures SET statut = '2' WHERE id = '22372' 
+[2019-11-05:11:52:14]	380.00
+[2019-11-05:11:52:14]	0.00
+[2019-11-05:12:18:55]	22627
+[2019-11-05:12:18:55]	
+[2019-11-05:12:20:28]	22627
+[2019-11-05:12:20:28]	
+[2019-11-05:12:21:18]	22627
+[2019-11-05:12:21:18]	update intranet_factures SET statut = '2' WHERE id = '22627' 
+[2019-11-05:12:21:18]	90.00
+[2019-11-05:12:21:18]	0.00
+[2019-11-05:13:12:21]	20267
+[2019-11-05:13:12:21]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '20267' 
+[2019-11-05:13:12:21]	115.00 <= 115.00 && 115.00 > 0
+[2019-11-05:13:12:21]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '20267' 
+[2019-11-05:13:13:36]	22218
+[2019-11-05:13:13:36]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22218' 
+[2019-11-05:13:13:36]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:13:13:36]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22218' 
+[2019-11-05:13:13:52]	22475
+[2019-11-05:13:13:52]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22475' 
+[2019-11-05:13:13:52]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:13:13:52]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22475' 
+[2019-11-05:13:15:56]	22620
+[2019-11-05:13:15:56]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22620' 
+[2019-11-05:13:15:56]	130.00 <= 130.00 && 130.00 > 0
+[2019-11-05:13:15:56]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22620' 
+[2019-11-05:13:16:40]	22233
+[2019-11-05:13:16:40]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22233' 
+[2019-11-05:13:16:40]	150.00 <= 150.00 && 150.00 > 0
+[2019-11-05:13:16:40]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22233' 
+[2019-11-05:13:17:10]	22512
+[2019-11-05:13:17:10]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22512' 
+[2019-11-05:13:17:10]	230.01 <= 230.01 && 230.01 > 0
+[2019-11-05:13:17:10]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22512' 
+[2019-11-05:13:17:33]	22447
+[2019-11-05:13:17:33]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22447' 
+[2019-11-05:13:17:33]	248.05 <= 248.05 && 248.05 > 0
+[2019-11-05:13:17:33]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22447' 
+[2019-11-05:13:17:55]	22502
+[2019-11-05:13:17:55]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '22502' 
+[2019-11-05:13:17:55]	325.01 <= 325.01 && 325.01 > 0
+[2019-11-05:13:17:55]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '22502' 
+[2019-11-05:13:18:25]	21792
+[2019-11-05:13:18:25]	update intranet_factures SET statut = '4',deverrouiller_documents='y' WHERE id = '21792' 
+[2019-11-05:13:18:25]	380.00 <= 380.00 && 380.00 > 0
+[2019-11-05:13:18:25]	update intranet_factures SET date_paiement = NOW() WHERE date_paiement = '0000-00-00' AND id = '21792' 
+[2019-11-05:13:48:58]	22403
+[2019-11-05:13:48:58]	
+[2019-11-05:13:49:47]	22403
+[2019-11-05:13:49:47]	update intranet_factures SET statut = '2' WHERE id = '22403' 
+[2019-11-05:13:49:47]	380.00
+[2019-11-05:13:49:47]	0.00

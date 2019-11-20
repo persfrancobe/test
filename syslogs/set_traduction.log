@@ -1,0 +1,123 @@
+[2019-11-05:08:29:07]	19345 inserted: id= non trouvé !
+[2019-11-05:08:29:07]	UPDATE migcms_linked_files SET id_textid_legend = '19345' WHERE id = '60835'
+[2019-11-05:08:29:34]	19346 inserted: id=0 non trouvé !
+[2019-11-05:08:29:34]	UPDATE migcms_linked_files SET id_textid_url = '19346' WHERE id = '60835'
+[2019-11-05:08:29:34]	UPDATE migcms_linked_files SET id_textid_legend = '19345' WHERE id = '60835'
+[2019-11-05:08:31:29]	UPDATE migcms_linked_files SET id_textid_url = '19156' WHERE id = '60740'
+[2019-11-05:08:31:29]	UPDATE migcms_linked_files SET id_textid_legend = '19155' WHERE id = '60740'
+[2019-11-05:08:31:53]	19347 inserted: id= non trouvé !
+[2019-11-05:08:31:53]	UPDATE migcms_linked_files SET id_textid_legend = '19347' WHERE id = '60836'
+[2019-11-05:08:31:56]	19348 inserted: id=0 non trouvé !
+[2019-11-05:08:31:56]	UPDATE migcms_linked_files SET id_textid_url = '19348' WHERE id = '60836'
+[2019-11-05:08:31:56]	UPDATE migcms_linked_files SET id_textid_legend = '19347' WHERE id = '60836'
+[2019-11-05:08:38:22]	UPDATE migcms_linked_files SET id_textid_url = '18094' WHERE id = '60207'
+[2019-11-05:08:38:22]	UPDATE migcms_linked_files SET id_textid_legend = '18093' WHERE id = '60207'
+[2019-11-05:08:41:12]	UPDATE migcms_linked_files SET id_textid_url = '19136' WHERE id = '60730'
+[2019-11-05:08:41:12]	UPDATE migcms_linked_files SET id_textid_legend = '19135' WHERE id = '60730'
+[2019-11-05:08:43:34]	UPDATE migcms_linked_files SET id_textid_url = '19174' WHERE id = '60749'
+[2019-11-05:08:43:34]	UPDATE migcms_linked_files SET id_textid_legend = '19173' WHERE id = '60749'
+[2019-11-05:08:43:57]	UPDATE migcms_linked_files SET id_textid_url = '19176' WHERE id = '60750'
+[2019-11-05:08:43:57]	UPDATE migcms_linked_files SET id_textid_legend = '19175' WHERE id = '60750'
+[2019-11-05:08:47:11]	UPDATE migcms_linked_files SET id_textid_url = '18682' WHERE id = '60502'
+[2019-11-05:08:47:11]	UPDATE migcms_linked_files SET id_textid_legend = '18681' WHERE id = '60502'
+[2019-11-05:08:48:13]	UPDATE migcms_linked_files SET id_textid_url = '17871' WHERE id = '60095'
+[2019-11-05:08:48:13]	UPDATE migcms_linked_files SET id_textid_legend = '17870' WHERE id = '60095'
+[2019-11-05:08:48:26]	UPDATE migcms_linked_files SET id_textid_url = '17873' WHERE id = '60096'
+[2019-11-05:08:48:26]	UPDATE migcms_linked_files SET id_textid_legend = '17872' WHERE id = '60096'
+[2019-11-05:08:48:37]	UPDATE migcms_linked_files SET id_textid_url = '17889' WHERE id = '60104'
+[2019-11-05:08:48:37]	UPDATE migcms_linked_files SET id_textid_legend = '17888' WHERE id = '60104'
+[2019-11-05:09:53:58]	19349 inserted: id= non trouvé !
+[2019-11-05:09:53:58]	UPDATE migcms_linked_files SET id_textid_legend = '19349' WHERE id = '60837'
+[2019-11-05:09:54:01]	19350 inserted: id=0 non trouvé !
+[2019-11-05:09:54:01]	UPDATE migcms_linked_files SET id_textid_url = '19350' WHERE id = '60837'
+[2019-11-05:09:54:01]	UPDATE migcms_linked_files SET id_textid_legend = '19349' WHERE id = '60837'
+[2019-11-05:09:58:02]	19351 inserted: id= non trouvé !
+[2019-11-05:09:58:02]	UPDATE migcms_linked_files SET id_textid_legend = '19351' WHERE id = '60838'
+[2019-11-05:09:58:05]	19352 inserted: id=0 non trouvé !
+[2019-11-05:09:58:05]	UPDATE migcms_linked_files SET id_textid_url = '19352' WHERE id = '60838'
+[2019-11-05:09:58:05]	UPDATE migcms_linked_files SET id_textid_legend = '19351' WHERE id = '60838'
+[2019-11-05:10:04:22]	19353 inserted: id= non trouvé !
+[2019-11-05:10:04:22]	UPDATE migcms_linked_files SET id_textid_legend = '19353' WHERE id = '60839'
+[2019-11-05:10:04:25]	19354 inserted: id=0 non trouvé !
+[2019-11-05:10:04:25]	UPDATE migcms_linked_files SET id_textid_url = '19354' WHERE id = '60839'
+[2019-11-05:10:04:25]	UPDATE migcms_linked_files SET id_textid_legend = '19353' WHERE id = '60839'
+[2019-11-05:10:04:38]	UPDATE migcms_linked_files SET id_textid_url = '19354' WHERE id = '60839'
+[2019-11-05:10:04:38]	UPDATE migcms_linked_files SET id_textid_legend = '19353' WHERE id = '60839'
+[2019-11-05:10:09:46]	19355 inserted: id= non trouvé !
+[2019-11-05:10:09:46]	UPDATE migcms_linked_files SET id_textid_legend = '19355' WHERE id = '60840'
+[2019-11-05:10:09:49]	19356 inserted: id=0 non trouvé !
+[2019-11-05:10:09:49]	UPDATE migcms_linked_files SET id_textid_url = '19356' WHERE id = '60840'
+[2019-11-05:10:09:49]	UPDATE migcms_linked_files SET id_textid_legend = '19355' WHERE id = '60840'
+[2019-11-05:10:22:03]	19357 inserted: id= non trouvé !
+[2019-11-05:10:22:03]	UPDATE migcms_linked_files SET id_textid_legend = '19357' WHERE id = '60841'
+[2019-11-05:10:22:06]	19358 inserted: id=0 non trouvé !
+[2019-11-05:10:22:06]	UPDATE migcms_linked_files SET id_textid_url = '19358' WHERE id = '60841'
+[2019-11-05:10:22:06]	UPDATE migcms_linked_files SET id_textid_legend = '19357' WHERE id = '60841'
+[2019-11-05:10:24:53]	UPDATE migcms_linked_files SET id_textid_url = '7387' WHERE id = '55256'
+[2019-11-05:10:24:53]	UPDATE migcms_linked_files SET id_textid_legend = '7386' WHERE id = '55256'
+[2019-11-05:10:54:24]	19359 inserted: id= non trouvé !
+[2019-11-05:10:54:24]	UPDATE migcms_linked_files SET id_textid_legend = '19359' WHERE id = '60842'
+[2019-11-05:10:54:27]	19360 inserted: id=0 non trouvé !
+[2019-11-05:10:54:27]	UPDATE migcms_linked_files SET id_textid_url = '19360' WHERE id = '60842'
+[2019-11-05:10:54:27]	UPDATE migcms_linked_files SET id_textid_legend = '19359' WHERE id = '60842'
+[2019-11-05:10:58:24]	19361 inserted: id= non trouvé !
+[2019-11-05:10:58:24]	UPDATE migcms_linked_files SET id_textid_legend = '19361' WHERE id = '60843'
+[2019-11-05:10:58:26]	19362 inserted: id=0 non trouvé !
+[2019-11-05:10:58:26]	UPDATE migcms_linked_files SET id_textid_url = '19362' WHERE id = '60843'
+[2019-11-05:10:58:26]	UPDATE migcms_linked_files SET id_textid_legend = '19361' WHERE id = '60843'
+[2019-11-05:11:00:57]	19363 inserted: id= non trouvé !
+[2019-11-05:11:00:57]	UPDATE migcms_linked_files SET id_textid_legend = '19363' WHERE id = '60844'
+[2019-11-05:11:01:00]	19364 inserted: id=0 non trouvé !
+[2019-11-05:11:01:00]	UPDATE migcms_linked_files SET id_textid_url = '19364' WHERE id = '60844'
+[2019-11-05:11:01:00]	UPDATE migcms_linked_files SET id_textid_legend = '19363' WHERE id = '60844'
+[2019-11-05:11:07:47]	19365 inserted: id= non trouvé !
+[2019-11-05:11:07:47]	UPDATE migcms_linked_files SET id_textid_legend = '19365' WHERE id = '60845'
+[2019-11-05:11:07:49]	19366 inserted: id=0 non trouvé !
+[2019-11-05:11:07:49]	UPDATE migcms_linked_files SET id_textid_url = '19366' WHERE id = '60845'
+[2019-11-05:11:07:49]	UPDATE migcms_linked_files SET id_textid_legend = '19365' WHERE id = '60845'
+[2019-11-05:11:12:18]	19367 inserted: id= non trouvé !
+[2019-11-05:11:12:18]	UPDATE migcms_linked_files SET id_textid_legend = '19367' WHERE id = '60846'
+[2019-11-05:11:12:20]	19368 inserted: id=0 non trouvé !
+[2019-11-05:11:12:20]	UPDATE migcms_linked_files SET id_textid_url = '19368' WHERE id = '60846'
+[2019-11-05:11:12:20]	UPDATE migcms_linked_files SET id_textid_legend = '19367' WHERE id = '60846'
+[2019-11-05:11:19:30]	19369 inserted: id= non trouvé !
+[2019-11-05:11:19:30]	UPDATE migcms_linked_files SET id_textid_legend = '19369' WHERE id = '60847'
+[2019-11-05:11:19:33]	19370 inserted: id=0 non trouvé !
+[2019-11-05:11:19:33]	UPDATE migcms_linked_files SET id_textid_url = '19370' WHERE id = '60847'
+[2019-11-05:11:19:33]	UPDATE migcms_linked_files SET id_textid_legend = '19369' WHERE id = '60847'
+[2019-11-05:11:23:56]	19371 inserted: id= non trouvé !
+[2019-11-05:11:23:56]	UPDATE migcms_linked_files SET id_textid_legend = '19371' WHERE id = '60848'
+[2019-11-05:11:23:59]	19372 inserted: id=0 non trouvé !
+[2019-11-05:11:23:59]	UPDATE migcms_linked_files SET id_textid_url = '19372' WHERE id = '60848'
+[2019-11-05:11:23:59]	UPDATE migcms_linked_files SET id_textid_legend = '19371' WHERE id = '60848'
+[2019-11-05:11:40:25]	19373 inserted: id= non trouvé !
+[2019-11-05:11:40:25]	UPDATE migcms_linked_files SET id_textid_legend = '19373' WHERE id = '60849'
+[2019-11-05:11:40:30]	19374 inserted: id=0 non trouvé !
+[2019-11-05:11:40:30]	UPDATE migcms_linked_files SET id_textid_url = '19374' WHERE id = '60849'
+[2019-11-05:11:40:30]	UPDATE migcms_linked_files SET id_textid_legend = '19373' WHERE id = '60849'
+[2019-11-05:12:00:09]	19375 inserted: id= non trouvé !
+[2019-11-05:12:00:09]	UPDATE migcms_linked_files SET id_textid_legend = '19375' WHERE id = '60850'
+[2019-11-05:12:00:11]	19376 inserted: id=0 non trouvé !
+[2019-11-05:12:00:11]	UPDATE migcms_linked_files SET id_textid_url = '19376' WHERE id = '60850'
+[2019-11-05:12:00:11]	UPDATE migcms_linked_files SET id_textid_legend = '19375' WHERE id = '60850'
+[2019-11-05:12:12:16]	19377 inserted: id= non trouvé !
+[2019-11-05:12:12:16]	UPDATE migcms_linked_files SET id_textid_legend = '19377' WHERE id = '60851'
+[2019-11-05:12:12:18]	19378 inserted: id=0 non trouvé !
+[2019-11-05:12:12:18]	UPDATE migcms_linked_files SET id_textid_url = '19378' WHERE id = '60851'
+[2019-11-05:12:12:18]	UPDATE migcms_linked_files SET id_textid_legend = '19377' WHERE id = '60851'
+[2019-11-05:12:22:17]	19379 inserted: id= non trouvé !
+[2019-11-05:12:22:17]	UPDATE migcms_linked_files SET id_textid_legend = '19379' WHERE id = '60852'
+[2019-11-05:12:22:20]	19380 inserted: id=0 non trouvé !
+[2019-11-05:12:22:20]	UPDATE migcms_linked_files SET id_textid_url = '19380' WHERE id = '60852'
+[2019-11-05:12:22:20]	UPDATE migcms_linked_files SET id_textid_legend = '19379' WHERE id = '60852'
+[2019-11-05:12:22:27]	UPDATE migcms_linked_files SET id_textid_url = '19380' WHERE id = '60852'
+[2019-11-05:12:22:27]	UPDATE migcms_linked_files SET id_textid_legend = '19379' WHERE id = '60852'
+[2019-11-05:13:12:33]	UPDATE migcms_linked_files SET id_textid_url = '19300' WHERE id = '60812'
+[2019-11-05:13:12:33]	UPDATE migcms_linked_files SET id_textid_legend = '19299' WHERE id = '60812'
+[2019-11-05:13:14:05]	UPDATE migcms_linked_files SET id_textid_url = '19318' WHERE id = '60821'
+[2019-11-05:13:14:05]	UPDATE migcms_linked_files SET id_textid_legend = '19317' WHERE id = '60821'
+[2019-11-05:13:52:09]	19381 inserted: id= non trouvé !
+[2019-11-05:13:52:09]	UPDATE migcms_linked_files SET id_textid_legend = '19381' WHERE id = '60853'
+[2019-11-05:13:52:11]	19382 inserted: id=0 non trouvé !
+[2019-11-05:13:52:11]	UPDATE migcms_linked_files SET id_textid_url = '19382' WHERE id = '60853'
+[2019-11-05:13:52:11]	UPDATE migcms_linked_files SET id_textid_legend = '19381' WHERE id = '60853'

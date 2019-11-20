@@ -1,0 +1,144 @@
+[2019-11-05:09:51:58]	save_doc_facture
+[2019-11-05:09:51:58]	22442
+[2019-11-05:09:51:58]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:09:51:58]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:09:51:58]	save_doc_facture_calcule_echeance ok
+[2019-11-05:09:51:59]	save_doc_facture_save_lines ok
+[2019-11-05:09:51:59]	intranet_totalize_doc_facture ok
+[2019-11-05:09:51:59]	save_doc_facture_reglement_auto ok
+[2019-11-05:09:51:59]	save_doc_facture_commission ok
+[2019-11-05:09:51:59]	set_statut_facture_from_reglements ok
+[2019-11-05:09:52:00]	save_doc_facture_cree_pdf ok
+[2019-11-05:09:52:00]	save_doc_facture OK
+[2019-11-05:09:56:36]	save_doc_facture
+[2019-11-05:09:56:36]	22619
+[2019-11-05:09:56:36]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:09:56:36]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:09:56:36]	save_doc_facture_calcule_echeance ok
+[2019-11-05:09:56:36]	save_doc_facture_save_lines ok
+[2019-11-05:09:56:36]	intranet_totalize_doc_facture ok
+[2019-11-05:09:56:36]	save_doc_facture_reglement_auto ok
+[2019-11-05:09:56:36]	save_doc_facture_commission ok
+[2019-11-05:09:56:36]	set_statut_facture_from_reglements ok
+[2019-11-05:09:56:38]	save_doc_facture_cree_pdf ok
+[2019-11-05:09:56:38]	save_doc_facture OK
+[2019-11-05:10:02:36]	save_doc_facture
+[2019-11-05:10:02:36]	22473
+[2019-11-05:10:02:36]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:10:02:36]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:10:02:36]	save_doc_facture_calcule_echeance ok
+[2019-11-05:10:02:37]	save_doc_facture_save_lines ok
+[2019-11-05:10:02:37]	intranet_totalize_doc_facture ok
+[2019-11-05:10:02:37]	save_doc_facture_reglement_auto ok
+[2019-11-05:10:02:37]	save_doc_facture_commission ok
+[2019-11-05:10:02:37]	set_statut_facture_from_reglements ok
+[2019-11-05:10:02:38]	save_doc_facture_cree_pdf ok
+[2019-11-05:10:02:38]	save_doc_facture OK
+[2019-11-05:10:08:04]	save_doc_facture
+[2019-11-05:10:08:04]	22620
+[2019-11-05:10:08:04]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:10:08:04]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:10:08:04]	save_doc_facture_calcule_echeance ok
+[2019-11-05:10:08:04]	save_doc_facture_save_lines ok
+[2019-11-05:10:08:04]	intranet_totalize_doc_facture ok
+[2019-11-05:10:08:04]	save_doc_facture_reglement_auto ok
+[2019-11-05:10:08:05]	save_doc_facture_commission ok
+[2019-11-05:10:08:05]	set_statut_facture_from_reglements ok
+[2019-11-05:10:08:06]	save_doc_facture_cree_pdf ok
+[2019-11-05:10:08:06]	save_doc_facture OK
+[2019-11-05:10:13:35]	save_doc_facture
+[2019-11-05:10:13:35]	22518
+[2019-11-05:10:13:35]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:10:13:35]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:10:13:35]	save_doc_facture_calcule_echeance ok
+[2019-11-05:10:13:36]	save_doc_facture_save_lines ok
+[2019-11-05:10:13:36]	intranet_totalize_doc_facture ok
+[2019-11-05:10:13:36]	save_doc_facture_reglement_auto ok
+[2019-11-05:10:13:36]	save_doc_facture_commission ok
+[2019-11-05:10:13:36]	set_statut_facture_from_reglements ok
+[2019-11-05:10:13:37]	save_doc_facture_cree_pdf ok
+[2019-11-05:10:13:37]	save_doc_facture OK
+[2019-11-05:11:06:04]	save_doc_facture
+[2019-11-05:11:06:04]	22626
+[2019-11-05:11:06:04]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:11:06:04]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:11:06:04]	save_doc_facture_calcule_echeance ok
+[2019-11-05:11:06:04]	save_doc_facture_save_lines ok
+[2019-11-05:11:06:04]	intranet_totalize_doc_facture ok
+[2019-11-05:11:06:04]	save_doc_facture_reglement_auto ok
+[2019-11-05:11:06:04]	save_doc_facture_commission ok
+[2019-11-05:11:06:04]	set_statut_facture_from_reglements ok
+[2019-11-05:11:06:06]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:06:06]	save_doc_facture OK
+[2019-11-05:11:17:54]	save_doc_facture
+[2019-11-05:11:17:54]	22331
+[2019-11-05:11:17:54]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:11:17:54]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:11:17:54]	save_doc_facture_calcule_echeance ok
+[2019-11-05:11:17:54]	save_doc_facture_save_lines ok
+[2019-11-05:11:17:54]	intranet_totalize_doc_facture ok
+[2019-11-05:11:17:54]	save_doc_facture_reglement_auto ok
+[2019-11-05:11:17:54]	save_doc_facture_commission ok
+[2019-11-05:11:17:54]	set_statut_facture_from_reglements ok
+[2019-11-05:11:17:56]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:17:56]	save_doc_facture OK
+[2019-11-05:11:21:54]	save_doc_facture
+[2019-11-05:11:21:54]	22361
+[2019-11-05:11:21:54]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:11:21:54]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:11:21:54]	save_doc_facture_calcule_echeance ok
+[2019-11-05:11:21:54]	save_doc_facture_save_lines ok
+[2019-11-05:11:21:54]	intranet_totalize_doc_facture ok
+[2019-11-05:11:21:54]	save_doc_facture_reglement_auto ok
+[2019-11-05:11:21:55]	save_doc_facture_commission ok
+[2019-11-05:11:21:55]	set_statut_facture_from_reglements ok
+[2019-11-05:11:21:56]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:21:56]	save_doc_facture OK
+[2019-11-05:11:38:57]	save_doc_facture
+[2019-11-05:11:38:57]	22524
+[2019-11-05:11:38:57]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:11:38:57]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:11:38:57]	save_doc_facture_calcule_echeance ok
+[2019-11-05:11:38:57]	save_doc_facture_save_lines ok
+[2019-11-05:11:38:57]	intranet_totalize_doc_facture ok
+[2019-11-05:11:38:57]	save_doc_facture_reglement_auto ok
+[2019-11-05:11:38:57]	save_doc_facture_commission ok
+[2019-11-05:11:38:57]	set_statut_facture_from_reglements ok
+[2019-11-05:11:38:59]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:38:59]	save_doc_facture OK
+[2019-11-05:11:52:14]	save_doc_facture
+[2019-11-05:11:52:14]	22372
+[2019-11-05:11:52:14]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:11:52:14]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:11:52:14]	save_doc_facture_calcule_echeance ok
+[2019-11-05:11:52:14]	save_doc_facture_save_lines ok
+[2019-11-05:11:52:14]	intranet_totalize_doc_facture ok
+[2019-11-05:11:52:14]	save_doc_facture_reglement_auto ok
+[2019-11-05:11:52:14]	save_doc_facture_commission ok
+[2019-11-05:11:52:14]	set_statut_facture_from_reglements ok
+[2019-11-05:11:52:16]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:52:16]	save_doc_facture OK
+[2019-11-05:12:21:18]	save_doc_facture
+[2019-11-05:12:21:18]	22627
+[2019-11-05:12:21:18]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:12:21:18]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:12:21:18]	save_doc_facture_calcule_echeance ok
+[2019-11-05:12:21:18]	save_doc_facture_save_lines ok
+[2019-11-05:12:21:18]	intranet_totalize_doc_facture ok
+[2019-11-05:12:21:18]	save_doc_facture_reglement_auto ok
+[2019-11-05:12:21:18]	save_doc_facture_commission ok
+[2019-11-05:12:21:18]	set_statut_facture_from_reglements ok
+[2019-11-05:12:21:20]	save_doc_facture_cree_pdf ok
+[2019-11-05:12:21:20]	save_doc_facture OK
+[2019-11-05:13:49:47]	save_doc_facture
+[2019-11-05:13:49:47]	22403
+[2019-11-05:13:49:47]	save_doc_facture_fill_numero_facture ok
+[2019-11-05:13:49:47]	save_doc_facture_calcule_date_facturation ok
+[2019-11-05:13:49:47]	save_doc_facture_calcule_echeance ok
+[2019-11-05:13:49:47]	save_doc_facture_save_lines ok
+[2019-11-05:13:49:47]	intranet_totalize_doc_facture ok
+[2019-11-05:13:49:47]	save_doc_facture_reglement_auto ok
+[2019-11-05:13:49:47]	save_doc_facture_commission ok
+[2019-11-05:13:49:47]	set_statut_facture_from_reglements ok
+[2019-11-05:13:49:49]	save_doc_facture_cree_pdf ok
+[2019-11-05:13:49:49]	save_doc_facture OK

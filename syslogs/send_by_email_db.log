@@ -1,0 +1,176 @@
+[2019-11-05:13:50:13]	send_by_email_db
+[2019-11-05:13:50:13]	de:CERTIGREEN <info@certigreen.be>
+[2019-11-05:13:50:13]	to:libert.marianne@skynet.be
+[2019-11-05:13:50:13]	cc:
+[2019-11-05:13:50:13]	cci:
+[2019-11-05:13:50:13]	object:Facture N° FA20191784 Bernadette ROBA
+[2019-11-05:13:50:13]	send_mail_screen_message:<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Facture PRO FORMA N°14016394</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body itemscope itemtype="http://schema.org/Order" bgcolor="#ffffff" style="font-family:arial,sans-serif;color:#292929;font-size:14px;line-height:20px;background:#e5e5e5;-webkit-text-size-adjust:none;">
+
+<style type="text/css">
+* {
+padding : 0px;
+margin : 0px;
+}
+
+body {
+font-family : arial,sans-serif;
+color : #292929;
+font-size : 14px;
+line-height : 20px;
+background : #e5e5e5;
+-webkit-text-size-adjust : none;
+}
+
+a {
+border : 0px;
+color : #1780B8;
+}
+
+a:hover {
+color : #1780B8;
+}
+
+img {
+border : 0px;
+}
+
+a img {
+border  :0px;
+}
+
+.td25pc {
+padding : 5px;
+}
+
+.td25pc img {
+max-width : 100%;
+height : auto;
+}
+
+ only screen and (max-width: 600px) { 
+
+  *[class].table800, *[class].td800, *[class].img800, *[class].pub { width:100% !important; height:auto; }
+  *[class].td45 { width:5% !important; }
+  *[class].td710 { width:90% !important; }
+  *[class].table710 { width:100% !important; height:auto; }
+  *[class].tdleftcontent { width : 100% !important; display: table-header-group !important; }
+  *[class].td40 { width : 100% !important; display: table-header-group !important; }
+  *[class].tdrightcontent { width : 100% !important; display: table-header-group !important; }
+  *[class].fancybox { width : 100%; height : auto; }
+  *[class].table100pc { width:100% !important; height:auto; }
+  *[class].td25pc { width : 100% !important; display: table-header-group !important; }
+  *[class].menulink { display : block !important; }
+  *[class].maintitle { font-size:25px !important; line-height:30px !important; margin:0px; }
+  *[class].linkcategory { display : none !important; }
+  *[class].hidden-sm  { display : none !important; }
+} 
+
+</style>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td align="center">
+	<table width="800" border="0" cellpadding="0" cellspacing="0" align="center" class="table800" bgcolor="white">
+		<tr>
+			<td width="800" align="center" class="td800">
+
+				
+
+				<table width="800" border="0" cellpadding="0" cellspacing="0" align="center" class="table800">
+					<tr>
+						<td width="45" align="center" class="td45"></td>
+						<td width="710" align="left" class="td710">
+
+							<table width="710" border="0" cellpadding="0" cellspacing="0" align="center" class="table710">
+								<tr>
+									<td class="td40" height="40" valign="top" colspan="3">&nbsp;</td>
+								</tr>
+								<tr>
+									<td align="left" class="tdleftcontent" valign="top">
+											<a href=""><img src="https://www.certigreen.be//usr/files/SSI/logos/3/SSI0000003_003_20170426150721.png" alt=""></a>
+
+									</td>
+									<td width="40" align="center" class="td40" valign="top">&nbsp;</td>
+									<td align="right" class="tdrightcontent" valign="middle">
+									</td>
+								</tr>
+								<tr>
+									<td class="td40" height="40" valign="top" colspan="3">&nbsp;</td>
+								</tr>
+							</table>
+
+							
+
+						
+							
+							
+
+							
+
+							
+<p>Bonjour Succession ROBA,<br /><br /></p>
+<p>Nous avons r&eacute;alis&eacute; votre certificat PEB et/ou contr&ocirc;le ELEC et/ou contr&ocirc;le citerne et/ou inventaire amiante et/ou examen technique.<br /><br />Veuillez trouver&nbsp;votre facture num&eacute;ro FA 20191784 concernant nos prestations.<br /><br />D&egrave;s r&eacute;ception de votre paiement (ou preuve de paiement)&nbsp;sur le compte IBAN N&deg;BE68 2400 8384 9834 avec le BIC N&deg; GEBA BE BB avec la communication FA 20191784 , nous vous ferons parvenir votre certificat.<br /><br />Pour rappel, vous devez disposer du certificat PEB avant la publication de toute annonce de location ou de vente d'un bien sur le march&eacute; immobilier.<br /><br /><br /><br />Cordialement,<br /><br />L'&eacute;quipe Certigreen</p>
+						
+						
+
+					
+
+
+									</td>
+								</tr>
+                <tr>
+                  <td class="td40" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td class="tdcentercontent" valign="top" align="right">
+                    
+                  </td>
+                </tr>
+								<tr>
+									<td class="td40" valign="top">&nbsp;</td>
+								</tr>
+								
+								<tr>
+									<td class="td40" valign="top">&nbsp;</td>
+								</tr>
+							</table>
+							
+						</td>
+						<td width="45" align="center" class="td45"></td>
+					</tr>
+				</table>
+				<table width="800" border="0" cellpadding="0" cellspacing="0" align="center" class="table800">
+					<tr>
+						<td width="800" height="32" align="left" colspan="3">&nbsp;</td>
+					</tr>
+				</table>
+
+				<table width="800" border="0" cellpadding="0" cellspacing="0" align="center" class="table800" bgcolor="#333333">
+					<tr>
+						<td width="45" align="center" class="td45"></td>
+						<td width="710" height="52" align="center" class="td710">
+							<span style="color:#dadada;">
+							
+							CERTIGREEN  | 
+										
+										<span>Rue de la Vecquée, 170   à 4100 SERAING, Belgique<br />
+										Tél: <a href="tel:+3243881294"><font color="#ffffff">+3243881294</font></a> | M: <a href="mailto:info@certigreen.be"><font color="#ffffff">info@certigreen.be</font></a> 
+						
+							</span>
+						</td>
+						<td width="45" align="center" class="td45"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>	
+	</table>
+          
+</td></tr></table>
+</body>
+</html>
+

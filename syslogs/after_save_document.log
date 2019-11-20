@@ -1,0 +1,15 @@
+[2019-11-05:13:52:11]	after_save_document
+[2019-11-05:13:52:11]	
+[2019-11-05:13:52:11]	UPDATE commande_documents SET id_member='7694',migcms_last_published_file = '../files/DOC/pj/13138/20191105007716_PEB_20191151352.pdf' WHERE id = '13138'
+[2019-11-05:13:52:11]		UPDATE intranet_factures c
+SET 
+nb_doc = 
+(
+    SELECT COUNT(*) FROM commande_documents doc, migcms_linked_files lnk
+    WHERE
+    lnk.table_name='commande_documents' 
+    AND lnk.token = doc.id
+    AND	doc.commande_id = c.id
+)
+WHERE id = '22403'
+

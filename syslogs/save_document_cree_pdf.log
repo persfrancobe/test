@@ -1,0 +1,267 @@
+[2019-11-05:08:03:33]	save_document_cree_pdf
+[2019-11-05:08:03:33]	DO0013279
+[2019-11-05:08:03:33]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13279
+[2019-11-05:08:03:33]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013279_temp.pdf
+[2019-11-05:08:03:33]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013279.pdf
+[2019-11-05:08:03:34]	update commande_documents SET communication_pdf = 'DO0013279.pdf' WHERE id = '13279' 
+[2019-11-05:08:03:34]	save_document_cree_pdf ok
+[2019-11-05:08:29:35]	save_document_cree_pdf
+[2019-11-05:08:29:35]	DO0013156
+[2019-11-05:08:29:35]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13156
+[2019-11-05:08:29:35]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013156_temp.pdf
+[2019-11-05:08:29:35]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013156.pdf
+[2019-11-05:08:29:36]	update commande_documents SET communication_pdf = 'DO0013156.pdf' WHERE id = '13156' 
+[2019-11-05:08:29:36]	save_document_cree_pdf ok
+[2019-11-05:08:31:30]	save_document_cree_pdf
+[2019-11-05:08:31:30]	DO0013153
+[2019-11-05:08:31:30]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13153
+[2019-11-05:08:31:30]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013153_temp.pdf
+[2019-11-05:08:31:30]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013153.pdf
+[2019-11-05:08:31:31]	update commande_documents SET communication_pdf = 'DO0013153.pdf' WHERE id = '13153' 
+[2019-11-05:08:31:31]	save_document_cree_pdf ok
+[2019-11-05:08:31:57]	save_document_cree_pdf
+[2019-11-05:08:31:57]	DO0013154
+[2019-11-05:08:31:57]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13154
+[2019-11-05:08:31:57]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013154_temp.pdf
+[2019-11-05:08:31:57]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013154.pdf
+[2019-11-05:08:31:58]	update commande_documents SET communication_pdf = 'DO0013154.pdf' WHERE id = '13154' 
+[2019-11-05:08:31:58]	save_document_cree_pdf ok
+[2019-11-05:08:37:49]	R10021748
+[2019-11-05:08:37:49]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=1
+[2019-11-05:08:37:49]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R10021748_temp.pdf
+[2019-11-05:08:37:49]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R10021748.pdf
+[2019-11-05:08:37:50]	update intranet_factures SET r1pdf = 'R10021748.pdf' WHERE id = '21748' 
+[2019-11-05:08:37:50]	R20021748
+[2019-11-05:08:37:50]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=2
+[2019-11-05:08:37:50]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R20021748_temp.pdf
+[2019-11-05:08:37:50]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R20021748.pdf
+[2019-11-05:08:37:51]	update intranet_factures SET r2pdf = 'R20021748.pdf' WHERE id = '21748' 
+[2019-11-05:08:37:51]	R30021748
+[2019-11-05:08:37:51]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document_rappel&id=21748&num=3
+[2019-11-05:08:37:51]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R30021748_temp.pdf
+[2019-11-05:08:37:51]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/R30021748.pdf
+[2019-11-05:08:37:52]	update intranet_factures SET r3pdf = 'R30021748.pdf' WHERE id = '21748' 
+[2019-11-05:08:38:23]	save_document_cree_pdf
+[2019-11-05:08:38:23]	DO0012184
+[2019-11-05:08:38:23]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12184
+[2019-11-05:08:38:23]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012184_temp.pdf
+[2019-11-05:08:38:23]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012184.pdf
+[2019-11-05:08:38:24]	update commande_documents SET communication_pdf = 'DO0012184.pdf' WHERE id = '12184' 
+[2019-11-05:08:38:24]	save_document_cree_pdf ok
+[2019-11-05:08:41:13]	save_document_cree_pdf
+[2019-11-05:08:41:13]	DO0013000
+[2019-11-05:08:41:13]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13000
+[2019-11-05:08:41:13]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013000_temp.pdf
+[2019-11-05:08:41:13]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013000.pdf
+[2019-11-05:08:41:14]	update commande_documents SET communication_pdf = 'DO0013000.pdf' WHERE id = '13000' 
+[2019-11-05:08:41:14]	save_document_cree_pdf ok
+[2019-11-05:08:43:35]	save_document_cree_pdf
+[2019-11-05:08:43:35]	DO0013142
+[2019-11-05:08:43:35]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13142
+[2019-11-05:08:43:35]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013142_temp.pdf
+[2019-11-05:08:43:35]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013142.pdf
+[2019-11-05:08:43:36]	update commande_documents SET communication_pdf = 'DO0013142.pdf' WHERE id = '13142' 
+[2019-11-05:08:43:36]	save_document_cree_pdf ok
+[2019-11-05:08:43:58]	save_document_cree_pdf
+[2019-11-05:08:43:58]	DO0013143
+[2019-11-05:08:43:58]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13143
+[2019-11-05:08:43:58]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013143_temp.pdf
+[2019-11-05:08:43:58]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013143.pdf
+[2019-11-05:08:43:59]	update commande_documents SET communication_pdf = 'DO0013143.pdf' WHERE id = '13143' 
+[2019-11-05:08:43:59]	save_document_cree_pdf ok
+[2019-11-05:08:47:12]	save_document_cree_pdf
+[2019-11-05:08:47:12]	DO0012750
+[2019-11-05:08:47:12]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12750
+[2019-11-05:08:47:12]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012750_temp.pdf
+[2019-11-05:08:47:12]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012750.pdf
+[2019-11-05:08:47:13]	update commande_documents SET communication_pdf = 'DO0012750.pdf' WHERE id = '12750' 
+[2019-11-05:08:47:13]	save_document_cree_pdf ok
+[2019-11-05:08:48:14]	save_document_cree_pdf
+[2019-11-05:08:48:14]	DO0012443
+[2019-11-05:08:48:14]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12443
+[2019-11-05:08:48:14]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012443_temp.pdf
+[2019-11-05:08:48:14]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012443.pdf
+[2019-11-05:08:48:15]	update commande_documents SET communication_pdf = 'DO0012443.pdf' WHERE id = '12443' 
+[2019-11-05:08:48:15]	save_document_cree_pdf ok
+[2019-11-05:08:48:27]	save_document_cree_pdf
+[2019-11-05:08:48:27]	DO0012440
+[2019-11-05:08:48:27]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12440
+[2019-11-05:08:48:27]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012440_temp.pdf
+[2019-11-05:08:48:27]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012440.pdf
+[2019-11-05:08:48:28]	update commande_documents SET communication_pdf = 'DO0012440.pdf' WHERE id = '12440' 
+[2019-11-05:08:48:28]	save_document_cree_pdf ok
+[2019-11-05:08:48:38]	save_document_cree_pdf
+[2019-11-05:08:48:38]	DO0012418
+[2019-11-05:08:48:38]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=12418
+[2019-11-05:08:48:38]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012418_temp.pdf
+[2019-11-05:08:48:38]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0012418.pdf
+[2019-11-05:08:48:39]	update commande_documents SET communication_pdf = 'DO0012418.pdf' WHERE id = '12418' 
+[2019-11-05:08:48:39]	save_document_cree_pdf ok
+[2019-11-05:09:54:01]	save_document_cree_pdf
+[2019-11-05:09:54:01]	DO0013169
+[2019-11-05:09:54:01]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13169
+[2019-11-05:09:54:01]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013169_temp.pdf
+[2019-11-05:09:54:01]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013169.pdf
+[2019-11-05:09:54:03]	update commande_documents SET communication_pdf = 'DO0013169.pdf' WHERE id = '13169' 
+[2019-11-05:09:54:03]	save_document_cree_pdf ok
+[2019-11-05:09:58:06]	save_document_cree_pdf
+[2019-11-05:09:58:06]	DO0013280
+[2019-11-05:09:58:06]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13280
+[2019-11-05:09:58:06]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013280_temp.pdf
+[2019-11-05:09:58:06]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013280.pdf
+[2019-11-05:09:58:07]	update commande_documents SET communication_pdf = 'DO0013280.pdf' WHERE id = '13280' 
+[2019-11-05:09:58:07]	save_document_cree_pdf ok
+[2019-11-05:10:04:26]	save_document_cree_pdf
+[2019-11-05:10:04:26]	DO0013180
+[2019-11-05:10:04:26]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13180
+[2019-11-05:10:04:26]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013180_temp.pdf
+[2019-11-05:10:04:26]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013180.pdf
+[2019-11-05:10:04:28]	update commande_documents SET communication_pdf = 'DO0013180.pdf' WHERE id = '13180' 
+[2019-11-05:10:04:28]	save_document_cree_pdf ok
+[2019-11-05:10:04:39]	save_document_cree_pdf
+[2019-11-05:10:04:39]	DO0013180
+[2019-11-05:10:04:39]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13180
+[2019-11-05:10:04:39]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013180_temp.pdf
+[2019-11-05:10:04:39]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013180.pdf
+[2019-11-05:10:04:40]	update commande_documents SET communication_pdf = 'DO0013180.pdf' WHERE id = '13180' 
+[2019-11-05:10:04:40]	save_document_cree_pdf ok
+[2019-11-05:10:09:50]	save_document_cree_pdf
+[2019-11-05:10:09:50]	DO0013281
+[2019-11-05:10:09:50]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13281
+[2019-11-05:10:09:50]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013281_temp.pdf
+[2019-11-05:10:09:50]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013281.pdf
+[2019-11-05:10:09:51]	update commande_documents SET communication_pdf = 'DO0013281.pdf' WHERE id = '13281' 
+[2019-11-05:10:09:51]	save_document_cree_pdf ok
+[2019-11-05:10:22:07]	save_document_cree_pdf
+[2019-11-05:10:22:07]	DO0013220
+[2019-11-05:10:22:07]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13220
+[2019-11-05:10:22:07]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013220_temp.pdf
+[2019-11-05:10:22:07]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013220.pdf
+[2019-11-05:10:22:08]	update commande_documents SET communication_pdf = 'DO0013220.pdf' WHERE id = '13220' 
+[2019-11-05:10:22:08]	save_document_cree_pdf ok
+[2019-11-05:10:24:54]	save_document_cree_pdf
+[2019-11-05:10:24:54]	DO0007264
+[2019-11-05:10:24:54]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=7264
+[2019-11-05:10:24:54]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0007264_temp.pdf
+[2019-11-05:10:24:54]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0007264.pdf
+[2019-11-05:10:24:55]	update commande_documents SET communication_pdf = 'DO0007264.pdf' WHERE id = '7264' 
+[2019-11-05:10:24:55]	save_document_cree_pdf ok
+[2019-11-05:10:32:33]	save_document_cree_pdf
+[2019-11-05:10:32:33]	DO0013282
+[2019-11-05:10:32:33]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13282
+[2019-11-05:10:32:33]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013282_temp.pdf
+[2019-11-05:10:32:33]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013282.pdf
+[2019-11-05:10:32:34]	update commande_documents SET communication_pdf = 'DO0013282.pdf' WHERE id = '13282' 
+[2019-11-05:10:32:34]	save_document_cree_pdf ok
+[2019-11-05:10:54:27]	save_document_cree_pdf
+[2019-11-05:10:54:27]	DO0013067
+[2019-11-05:10:54:27]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13067
+[2019-11-05:10:54:27]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013067_temp.pdf
+[2019-11-05:10:54:27]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013067.pdf
+[2019-11-05:10:54:29]	update commande_documents SET communication_pdf = 'DO0013067.pdf' WHERE id = '13067' 
+[2019-11-05:10:54:29]	save_document_cree_pdf ok
+[2019-11-05:10:58:27]	save_document_cree_pdf
+[2019-11-05:10:58:27]	DO0013118
+[2019-11-05:10:58:27]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13118
+[2019-11-05:10:58:27]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013118_temp.pdf
+[2019-11-05:10:58:27]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013118.pdf
+[2019-11-05:10:58:28]	update commande_documents SET communication_pdf = 'DO0013118.pdf' WHERE id = '13118' 
+[2019-11-05:10:58:28]	save_document_cree_pdf ok
+[2019-11-05:11:01:01]	save_document_cree_pdf
+[2019-11-05:11:01:01]	DO0013086
+[2019-11-05:11:01:01]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13086
+[2019-11-05:11:01:01]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013086_temp.pdf
+[2019-11-05:11:01:01]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013086.pdf
+[2019-11-05:11:01:03]	update commande_documents SET communication_pdf = 'DO0013086.pdf' WHERE id = '13086' 
+[2019-11-05:11:01:03]	save_document_cree_pdf ok
+[2019-11-05:11:07:50]	save_document_cree_pdf
+[2019-11-05:11:07:50]	DO0013287
+[2019-11-05:11:07:50]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13287
+[2019-11-05:11:07:50]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013287_temp.pdf
+[2019-11-05:11:07:50]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013287.pdf
+[2019-11-05:11:07:51]	update commande_documents SET communication_pdf = 'DO0013287.pdf' WHERE id = '13287' 
+[2019-11-05:11:07:51]	save_document_cree_pdf ok
+[2019-11-05:11:11:03]	save_document_cree_pdf
+[2019-11-05:11:11:03]	DO0013285
+[2019-11-05:11:11:03]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13285
+[2019-11-05:11:11:03]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013285_temp.pdf
+[2019-11-05:11:11:03]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013285.pdf
+[2019-11-05:11:11:04]	update commande_documents SET communication_pdf = 'DO0013285.pdf' WHERE id = '13285' 
+[2019-11-05:11:11:04]	save_document_cree_pdf ok
+[2019-11-05:11:12:21]	save_document_cree_pdf
+[2019-11-05:11:12:21]	DO0013286
+[2019-11-05:11:12:21]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13286
+[2019-11-05:11:12:21]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013286_temp.pdf
+[2019-11-05:11:12:21]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013286.pdf
+[2019-11-05:11:12:22]	update commande_documents SET communication_pdf = 'DO0013286.pdf' WHERE id = '13286' 
+[2019-11-05:11:12:22]	save_document_cree_pdf ok
+[2019-11-05:11:19:34]	save_document_cree_pdf
+[2019-11-05:11:19:34]	DO0013076
+[2019-11-05:11:19:34]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13076
+[2019-11-05:11:19:34]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013076_temp.pdf
+[2019-11-05:11:19:34]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013076.pdf
+[2019-11-05:11:19:35]	update commande_documents SET communication_pdf = 'DO0013076.pdf' WHERE id = '13076' 
+[2019-11-05:11:19:35]	save_document_cree_pdf ok
+[2019-11-05:11:24:00]	save_document_cree_pdf
+[2019-11-05:11:24:00]	DO0013099
+[2019-11-05:11:24:00]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13099
+[2019-11-05:11:24:00]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013099_temp.pdf
+[2019-11-05:11:24:00]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013099.pdf
+[2019-11-05:11:24:01]	update commande_documents SET communication_pdf = 'DO0013099.pdf' WHERE id = '13099' 
+[2019-11-05:11:24:01]	save_document_cree_pdf ok
+[2019-11-05:11:40:31]	save_document_cree_pdf
+[2019-11-05:11:40:31]	DO0013227
+[2019-11-05:11:40:31]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13227
+[2019-11-05:11:40:31]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013227_temp.pdf
+[2019-11-05:11:40:31]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013227.pdf
+[2019-11-05:11:40:32]	update commande_documents SET communication_pdf = 'DO0013227.pdf' WHERE id = '13227' 
+[2019-11-05:11:40:32]	save_document_cree_pdf ok
+[2019-11-05:12:00:13]	save_document_cree_pdf
+[2019-11-05:12:00:13]	DO0013114
+[2019-11-05:12:00:13]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13114
+[2019-11-05:12:00:13]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013114_temp.pdf
+[2019-11-05:12:00:13]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013114.pdf
+[2019-11-05:12:00:14]	update commande_documents SET communication_pdf = 'DO0013114.pdf' WHERE id = '13114' 
+[2019-11-05:12:00:14]	save_document_cree_pdf ok
+[2019-11-05:12:12:19]	save_document_cree_pdf
+[2019-11-05:12:12:19]	DO0013255
+[2019-11-05:12:12:19]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13255
+[2019-11-05:12:12:19]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013255_temp.pdf
+[2019-11-05:12:12:19]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013255.pdf
+[2019-11-05:12:12:20]	update commande_documents SET communication_pdf = 'DO0013255.pdf' WHERE id = '13255' 
+[2019-11-05:12:12:20]	save_document_cree_pdf ok
+[2019-11-05:12:22:20]	save_document_cree_pdf
+[2019-11-05:12:22:20]	DO0013288
+[2019-11-05:12:22:20]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13288
+[2019-11-05:12:22:20]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013288_temp.pdf
+[2019-11-05:12:22:20]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013288.pdf
+[2019-11-05:12:22:21]	update commande_documents SET communication_pdf = 'DO0013288.pdf' WHERE id = '13288' 
+[2019-11-05:12:22:21]	save_document_cree_pdf ok
+[2019-11-05:12:22:28]	save_document_cree_pdf
+[2019-11-05:12:22:28]	DO0013288
+[2019-11-05:12:22:28]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13288
+[2019-11-05:12:22:28]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013288_temp.pdf
+[2019-11-05:12:22:28]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013288.pdf
+[2019-11-05:12:22:29]	update commande_documents SET communication_pdf = 'DO0013288.pdf' WHERE id = '13288' 
+[2019-11-05:12:22:29]	save_document_cree_pdf ok
+[2019-11-05:13:12:34]	save_document_cree_pdf
+[2019-11-05:13:12:34]	DO0011936
+[2019-11-05:13:12:34]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=11936
+[2019-11-05:13:12:34]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0011936_temp.pdf
+[2019-11-05:13:12:34]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0011936.pdf
+[2019-11-05:13:12:35]	update commande_documents SET communication_pdf = 'DO0011936.pdf' WHERE id = '11936' 
+[2019-11-05:13:12:35]	save_document_cree_pdf ok
+[2019-11-05:13:14:06]	save_document_cree_pdf
+[2019-11-05:13:14:06]	DO0013181
+[2019-11-05:13:14:06]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13181
+[2019-11-05:13:14:06]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013181_temp.pdf
+[2019-11-05:13:14:06]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013181.pdf
+[2019-11-05:13:14:07]	update commande_documents SET communication_pdf = 'DO0013181.pdf' WHERE id = '13181' 
+[2019-11-05:13:14:07]	save_document_cree_pdf ok
+[2019-11-05:13:52:12]	save_document_cree_pdf
+[2019-11-05:13:52:12]	DO0013138
+[2019-11-05:13:52:12]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commande_documents.pl?&sel=1000289&sw=get_html_document&id=13138
+[2019-11-05:13:52:12]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013138_temp.pdf
+[2019-11-05:13:52:12]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/DO0013138.pdf
+[2019-11-05:13:52:14]	update commande_documents SET communication_pdf = 'DO0013138.pdf' WHERE id = '13138' 
+[2019-11-05:13:52:14]	save_document_cree_pdf ok

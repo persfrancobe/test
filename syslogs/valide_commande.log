@@ -1,0 +1,38 @@
+[2019-11-05:08:03:52]			UPDATE intranet_factures SET validation = 1 WHERE id = '22613'
+
+[2019-11-05:08:37:47]			UPDATE intranet_factures SET validation = 1 WHERE id = '21748'
+
+[2019-11-05:09:51:27]			UPDATE intranet_factures SET validation = 1 WHERE id = '22442'
+
+[2019-11-05:09:55:44]			UPDATE intranet_factures SET validation = 1 WHERE id = '22619'
+
+[2019-11-05:09:56:02]			UPDATE intranet_factures SET validation = 1 WHERE id = '22619'
+
+[2019-11-05:10:02:08]			UPDATE intranet_factures SET validation = 1 WHERE id = '22473'
+
+[2019-11-05:10:07:27]			UPDATE intranet_factures SET validation = 1 WHERE id = '22620'
+
+[2019-11-05:10:07:39]			UPDATE intranet_factures SET validation = 1 WHERE id = '22620'
+
+[2019-11-05:10:13:11]			UPDATE intranet_factures SET validation = 1 WHERE id = '22518'
+
+[2019-11-05:10:20:05]			UPDATE intranet_factures SET validation = 1 WHERE id = '22622'
+
+[2019-11-05:11:04:17]			UPDATE intranet_factures SET validation = 1 WHERE id = '22626'
+
+[2019-11-05:11:05:13]			UPDATE intranet_factures SET validation = 1 WHERE id = '22626'
+
+[2019-11-05:11:17:05]			UPDATE intranet_factures SET validation = 1 WHERE id = '22331'
+
+[2019-11-05:11:21:09]			UPDATE intranet_factures SET validation = 1 WHERE id = '22361'
+
+[2019-11-05:11:38:04]			UPDATE intranet_factures SET validation = 1 WHERE id = '22524'
+
+[2019-11-05:11:51:37]			UPDATE intranet_factures SET validation = 1 WHERE id = '22372'
+
+[2019-11-05:12:18:55]			UPDATE intranet_factures SET validation = 1 WHERE id = '22627'
+
+[2019-11-05:12:20:28]			UPDATE intranet_factures SET validation = 1 WHERE id = '22627'
+
+[2019-11-05:13:48:58]			UPDATE intranet_factures SET validation = 1 WHERE id = '22403'
+

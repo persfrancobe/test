@@ -1,0 +1,91 @@
+[2019-11-05:08:37:47]	save_doc_facture_cree_pdf
+[2019-11-05:08:37:47]	FA20191540
+[2019-11-05:08:37:47]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=21748
+[2019-11-05:08:37:47]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191540_temp.pdf
+[2019-11-05:08:37:47]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191540.pdf
+[2019-11-05:08:37:49]	update intranet_factures SET migcms_last_published_file = 'FA20191540.pdf' WHERE id = '21748' 
+[2019-11-05:08:37:49]	save_doc_facture_cree_pdf ok
+[2019-11-05:09:51:59]	save_doc_facture_cree_pdf
+[2019-11-05:09:51:59]	FA20191773
+[2019-11-05:09:51:59]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22442
+[2019-11-05:09:51:59]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191773_temp.pdf
+[2019-11-05:09:51:59]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191773.pdf
+[2019-11-05:09:52:00]	update intranet_factures SET migcms_last_published_file = 'FA20191773.pdf' WHERE id = '22442' 
+[2019-11-05:09:52:00]	save_doc_facture_cree_pdf ok
+[2019-11-05:09:56:36]	save_doc_facture_cree_pdf
+[2019-11-05:09:56:36]	FA20191774
+[2019-11-05:09:56:36]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22619
+[2019-11-05:09:56:36]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191774_temp.pdf
+[2019-11-05:09:56:36]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191774.pdf
+[2019-11-05:09:56:38]	update intranet_factures SET migcms_last_published_file = 'FA20191774.pdf' WHERE id = '22619' 
+[2019-11-05:09:56:38]	save_doc_facture_cree_pdf ok
+[2019-11-05:10:02:37]	save_doc_facture_cree_pdf
+[2019-11-05:10:02:37]	FA20191775
+[2019-11-05:10:02:37]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22473
+[2019-11-05:10:02:37]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191775_temp.pdf
+[2019-11-05:10:02:37]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191775.pdf
+[2019-11-05:10:02:38]	update intranet_factures SET migcms_last_published_file = 'FA20191775.pdf' WHERE id = '22473' 
+[2019-11-05:10:02:38]	save_doc_facture_cree_pdf ok
+[2019-11-05:10:08:05]	save_doc_facture_cree_pdf
+[2019-11-05:10:08:05]	FA20191776
+[2019-11-05:10:08:05]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22620
+[2019-11-05:10:08:05]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191776_temp.pdf
+[2019-11-05:10:08:05]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191776.pdf
+[2019-11-05:10:08:06]	update intranet_factures SET migcms_last_published_file = 'FA20191776.pdf' WHERE id = '22620' 
+[2019-11-05:10:08:06]	save_doc_facture_cree_pdf ok
+[2019-11-05:10:13:36]	save_doc_facture_cree_pdf
+[2019-11-05:10:13:36]	FA20191777
+[2019-11-05:10:13:36]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22518
+[2019-11-05:10:13:36]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191777_temp.pdf
+[2019-11-05:10:13:36]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191777.pdf
+[2019-11-05:10:13:37]	update intranet_factures SET migcms_last_published_file = 'FA20191777.pdf' WHERE id = '22518' 
+[2019-11-05:10:13:37]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:06:04]	save_doc_facture_cree_pdf
+[2019-11-05:11:06:04]	FA20191778
+[2019-11-05:11:06:04]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22626
+[2019-11-05:11:06:04]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191778_temp.pdf
+[2019-11-05:11:06:04]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191778.pdf
+[2019-11-05:11:06:06]	update intranet_factures SET migcms_last_published_file = 'FA20191778.pdf' WHERE id = '22626' 
+[2019-11-05:11:06:06]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:17:54]	save_doc_facture_cree_pdf
+[2019-11-05:11:17:54]	FA20191779
+[2019-11-05:11:17:54]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22331
+[2019-11-05:11:17:54]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191779_temp.pdf
+[2019-11-05:11:17:54]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191779.pdf
+[2019-11-05:11:17:56]	update intranet_factures SET migcms_last_published_file = 'FA20191779.pdf' WHERE id = '22331' 
+[2019-11-05:11:17:56]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:21:55]	save_doc_facture_cree_pdf
+[2019-11-05:11:21:55]	FA20191780
+[2019-11-05:11:21:55]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22361
+[2019-11-05:11:21:55]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191780_temp.pdf
+[2019-11-05:11:21:55]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191780.pdf
+[2019-11-05:11:21:56]	update intranet_factures SET migcms_last_published_file = 'FA20191780.pdf' WHERE id = '22361' 
+[2019-11-05:11:21:56]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:38:57]	save_doc_facture_cree_pdf
+[2019-11-05:11:38:57]	FA20191781
+[2019-11-05:11:38:57]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22524
+[2019-11-05:11:38:57]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191781_temp.pdf
+[2019-11-05:11:38:57]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191781.pdf
+[2019-11-05:11:38:59]	update intranet_factures SET migcms_last_published_file = 'FA20191781.pdf' WHERE id = '22524' 
+[2019-11-05:11:38:59]	save_doc_facture_cree_pdf ok
+[2019-11-05:11:52:14]	save_doc_facture_cree_pdf
+[2019-11-05:11:52:14]	FA20191782
+[2019-11-05:11:52:14]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22372
+[2019-11-05:11:52:14]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191782_temp.pdf
+[2019-11-05:11:52:14]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191782.pdf
+[2019-11-05:11:52:16]	update intranet_factures SET migcms_last_published_file = 'FA20191782.pdf' WHERE id = '22372' 
+[2019-11-05:11:52:16]	save_doc_facture_cree_pdf ok
+[2019-11-05:12:21:18]	save_doc_facture_cree_pdf
+[2019-11-05:12:21:18]	FA20191783
+[2019-11-05:12:21:18]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22627
+[2019-11-05:12:21:18]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191783_temp.pdf
+[2019-11-05:12:21:18]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191783.pdf
+[2019-11-05:12:21:20]	update intranet_factures SET migcms_last_published_file = 'FA20191783.pdf' WHERE id = '22627' 
+[2019-11-05:12:21:20]	save_doc_facture_cree_pdf ok
+[2019-11-05:13:49:47]	save_doc_facture_cree_pdf
+[2019-11-05:13:49:47]	FA20191784
+[2019-11-05:13:49:47]	http://www.certigreen.be/cgi-bin/adm_handmade_certigreen_commandes.pl?&sel=1000273&sw=get_html_facture&id=22403
+[2019-11-05:13:49:47]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191784_temp.pdf
+[2019-11-05:13:49:47]	/var/www/vhosts/certigreen.fw.be/httpdocs2/usr/documents/FA20191784.pdf
+[2019-11-05:13:49:49]	update intranet_factures SET migcms_last_published_file = 'FA20191784.pdf' WHERE id = '22403' 
+[2019-11-05:13:49:49]	save_doc_facture_cree_pdf ok

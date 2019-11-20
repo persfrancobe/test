@@ -1,0 +1,72 @@
+[2019-11-05:08:03:33]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:29:35]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:31:30]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:31:57]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:38:23]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:41:13]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:43:35]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:43:58]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:47:12]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:48:14]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:48:27]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:08:48:38]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:09:54:01]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:09:58:06]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:04:26]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:04:39]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:09:50]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:22:07]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:24:54]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:32:33]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:54:27]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:10:58:27]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:11:01:01]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:11:07:50]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:11:11:03]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:11:12:21]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:11:19:34]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:11:24:00]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:11:40:31]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:12:00:13]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:12:12:19]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:12:22:20]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:12:22:28]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:13:12:34]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:13:14:06]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+
+[2019-11-05:13:52:12]				UPDATE intranet_factures SET pdfs_restants = 1 WHERE id IN (select commande_id from commande_documents where migcms_last_published_file = '' or migcms_last_published_file IS NULL or length(migcms_last_published_file) < 5 or migcms_last_published_file LIKE '%/')
+

@@ -1,0 +1,11 @@
+RewriteRule ^fr/membres/deconnexion$ cgi-bin/members.pl?sw=member_logout_db&lg=1$1
+RewriteRule ^nl/members/uitloggen$ cgi-bin/members.pl?sw=member_logout_db&lg=3$1
+RewriteRule ^fr/membres/acces-page/(.*)/(.*)$ cgi-bin/members.pl?sw=member_login_db&lg=1&token_page=$1&stoken=$2
+RewriteRule ^nl/membres/page-access/(.*)/(.*)$ cgi-bin/members.pl?sw=member_login_db&lg=3&token_page=$1&stoken=$2
+RewriteRule ^fr/membres/desinscription-mailing/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&id_mailing=$1&id_sending=$2&email=$3
+RewriteRule ^fr/membres/desinscription-mailing2/(.*)/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&id_mailing=$1&id_sending=$2&id_page=$3&email=$4&optout=2
+RewriteRule ^nl/membres/desinscription-mailing/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&lg=3&id_mailing=$1&id_sending=$2&email=$3
+RewriteCond %{QUERY_STRING} ^url=(.*)$
+RewriteRule ^fr/membres/autoconnexion/$ cgi-bin/members.pl?sw=autoconnexionbis&url=%1
+RewriteCond %{QUERY_STRING} ^url=(.*)$
+RewriteRule ^fr/membres/autoconnexion/(.*)/$ cgi-bin/members.pl?sw=member_login_db&stoken=$1&url_after_login=%1

@@ -1,0 +1,8 @@
+RewriteRule ^fr/connexion$ cgi-bin/members.pl?lg=1&extlink=&extlink_member=&sw=login_form
+RewriteRule ^fr/reservation$ cgi-bin/handmade_britishbusinessopen.pl?lg=1&extlink=1&sw=reservation
+RewriteRule ^fr/reservation/success$ cgi-bin/handmade_britishbusinessopen.pl?lg=1&extlink=1&sw=reservation_db
+RewriteRule ^admin-certigreen/commandes&sel=(.*)$ cgi-bin/adm_handmade_certigreen_commandes.pl?&mine=n&sel=$1
+RewriteRule ^admin-certigreen/mes-commandes&sel=(.*)$ cgi-bin/adm_handmade_certigreen_commandes.pl?&mine=y&sel=$1
+RewriteRule ^admin-certigreen/clients&sel=(.*)$ cgi-bin/adm_handmade_certigreen_members.pl?&mine=n&sel=$1
+RewriteRule ^admin-certigreen/mes-clients&sel=(.*)$ cgi-bin/adm_handmade_certigreen_members.pl?&mine=y&sel=$1
+RewriteRule ^qui-appelle/(.*)$ cgi-bin/adm_handmade_certigreen_commandes.pl?sel=1000278&filter_tel=$1

@@ -1,0 +1,5 @@
+[2019-11-05:13:48:58]	
+[2019-11-05:13:48:58]			UPDATE intranet_factures f SET nom_agence = (select lastname from members where id = f.id_member_agence) WHERE id = '22403'
+
+[2019-11-05:13:48:58]			UPDATE intranet_factures SET fusion = '<span class="member_title"><span class="member_deplie"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span><b> </b></span><div class="row member_info hide"><div style="" class=" col-md-12"><div class="societe panel panel-default">Rue Belle Croix 32<br />4920 Aywaille',fusion_short=' ROBA Bernadette Rue Belle Croix 32 4920 AYWAILLE' WHERE id = '22403'
+

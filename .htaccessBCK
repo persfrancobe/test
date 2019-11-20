@@ -1,0 +1,151 @@
+Header unset ETag
+FileETag none
+AddType x-font/otf .otf
+AddType x-font/ttf .ttf
+AddType x-font/eot .eot
+AddType x-font/woff .woff
+SetOutputFilter DEFLATE
+AddOutputFilterByType DEFLATE text/html text/css text/javascript text/plain text/xml application/x-javascript application/x-httpd-php x-font/otf x-font/ttf x-font/eot x-font/woff
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+Header append Vary User-Agent env=!dont-vary
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 29030400 seconds"
+ExpiresByType image/webp "access plus 29030400 seconds"
+ExpiresByType image/jpg "access plus 29030400 seconds"
+ExpiresByType image/jpeg "access plus 29030400 seconds"
+ExpiresByType image/png "access plus 29030400 seconds"
+ExpiresByType image/gif "access plus 29030400 seconds"
+AddType image/x-icon .ico
+ExpiresByType image/ico "access plus 29030400 seconds"
+ExpiresByType image/icon "access plus 29030400 seconds"
+ExpiresByType image/x-icon "access plus 29030400 seconds"
+ExpiresByType text/css "access plus 29030400 seconds"
+ExpiresByType text/javascript "access plus 29030400 seconds"
+ExpiresByType text/html "access plus 7200 seconds"
+ExpiresByType application/xhtml+xml "access plus 7200 seconds"
+ExpiresByType application/javascript "access plus 29030400 seconds"
+ExpiresByType application/x-javascript "access plus 29030400 seconds"
+ExpiresByType application/x-shockwave-flash "access plus 29030400 seconds"
+</IfModule>
+
+<IfModule mod_headers.c>
+<FilesMatch "\\.(ico|jpeg|jpg|png|gif|swf|gz|webp)$">
+Header set Cache-Control "max-age=29030400, public"
+</FilesMatch>
+<FilesMatch "\\.(pl|php|cgi|spl|scgi|fcgi|html|htm|css|js)$">
+#Header unset Cache-Control
+Header Set Pragma "no-cache"
+Header Set Expires "Thu, 1 Jan 1970 00:00:00 GMT"
+Header Set Cache-Control "max-age=0, no-store, no-cache, must-revalidate"
+Header Unset ETag
+FileETag None
+</FilesMatch>
+</IfModule>
+
+<Files ~ "robots\.txt$">
+  Header set X-Robots-Tag "noindex"
+</Files>
+
+<IfModule pagespeed_module>
+    ModPagespeed off
+	ModPagespeedEnableFilters rewrite_css
+	ModPagespeedEnableFilters collapse_whitespace
+	ModPagespeedEnableFilters remove_comments
+	ModPagespeedEnableFilters insert_dns_prefetch
+</IfModule>
+
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteBase /
+
+
+RewriteCond %{HTTP_HOST} !^www.certigreen.be$ [NC]
+RewriteRule ^(.*)$ http://www.certigreen.be/$1 [L,R=301]
+
+
+ErrorDocument 404 /
+
+
+
+
+
+
+RewriteRule ^fr/membres/deconnexion$ cgi-bin/members.pl?sw=member_logout_db&lg=1$1
+RewriteRule ^nl/members/uitloggen$ cgi-bin/members.pl?sw=member_logout_db&lg=3$1
+RewriteRule ^fr/membres/acces-page/(.*)/(.*)$ cgi-bin/members.pl?sw=member_login_db&lg=1&token_page=$1&stoken=$2
+RewriteRule ^nl/membres/page-access/(.*)/(.*)$ cgi-bin/members.pl?sw=member_login_db&lg=3&token_page=$1&stoken=$2
+RewriteRule ^fr/membres/desinscription-mailing/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&id_mailing=$1&id_sending=$2&email=$3
+RewriteRule ^fr/membres/desinscription-mailing2/(.*)/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&id_mailing=$1&id_sending=$2&id_page=$3&email=$4&optout=2
+RewriteRule ^nl/membres/desinscription-mailing/(.*)/(.*)/(.*)$ cgi-bin/members.pl?sw=member_mailing_unsubscribe_db&lg=3&id_mailing=$1&id_sending=$2&email=$3
+RewriteCond %{QUERY_STRING} ^url=(.*)$
+RewriteRule ^fr/membres/autoconnexion/$ cgi-bin/members.pl?sw=autoconnexionbis&url=%1
+RewriteCond %{QUERY_STRING} ^url=(.*)$
+RewriteRule ^fr/membres/autoconnexion/(.*)/$ cgi-bin/members.pl?sw=member_login_db&stoken=$1&url_after_login=%1
+
+ RewriteRule ^$ cache/site/cms/pages/public/1_1_fr-accueil.html
+ RewriteRule ^fr/presentation-certificats-peb$ cache/site/cms/pages/public/3_1_fr-presentation-certificats-peb.html
+ RewriteRule ^fr/tarif$ cache/site/cms/pages/public/4_1_fr-tarif.html
+ RewriteRule ^fr/a-preparer-pour-la-certification$ cache/site/cms/pages/public/5_1_fr-a-preparer-pour-la-certification.html
+ RewriteRule ^fr/presentation-controle-electrique$ cache/site/cms/pages/public/8_1_fr-presentation-controle-electrique.html
+ RewriteRule ^fr/presentation-controle-citerne$ cache/site/cms/pages/public/9_1_fr-presentation-controle-citerne.html
+ RewriteRule ^fr/presentation-inventaire-amiante$ cache/site/cms/pages/public/11_1_fr-presentation-inventaire-amiante.html
+ RewriteRule ^fr/particuliers$ cache/site/cms/pages/public/12_1_fr-particuliers.html
+ RewriteRule ^fr/professionnels$ cache/site/cms/pages/public/13_1_fr-professionnels.html
+ RewriteRule ^fr/contact$ cache/site/cms/pages/public/15_1_fr-contact.html
+ RewriteRule ^fr/tarif-controle-electrique$ cache/site/cms/pages/public/17_1_fr-tarif-controle-electrique.html
+ RewriteRule ^fr/tarif-controle-citerne$ cache/site/cms/pages/public/19_1_fr-tarif-controle-citerne.html
+ RewriteRule ^fr/preparer-la-visite-de-linspecteur-dinstallation-electrique$ cache/site/cms/pages/public/20_1_fr-preparer-la-visite-de-linspecteur-dinstallation-electrique.html
+ RewriteRule ^fr/jobs$ cache/site/cms/pages/public/21_1_fr-jobs.html
+ RewriteRule ^fr/certigreen-vous-conseille$ cache/site/cms/pages/public/27_1_fr-certigreen-vous-conseille.html
+RewriteRule ^fr/boutique/panier/*(.*) cgi-bin/eshop.pl?sw=cart&lg=1&$1
+RewriteRule ^fr/boutique/identification/page/*(.*) cgi-bin/eshop.pl?sw=login&lg=1&token=$1&error=$2
+RewriteRule ^fr/boutique/coordonnees/*(.*) cgi-bin/eshop.pl?sw=addresses&lg=1$1
+RewriteRule ^fr/boutique/methodes/*(.*) cgi-bin/eshop.pl?sw=methodes&lg=1$1
+RewriteRule ^fr/boutique/recapitulatif/*(.*) cgi-bin/eshop.pl?sw=recap&lg=1&$1
+RewriteRule ^fr/boutique/terminer/*(.*) cgi-bin/eshop.pl?sw=pay_start&lg=1&lg1
+RewriteRule ^fr/boutique/fin/succes/*(.*) cgi-bin/eshop.pl?sw=order_end_success&status=success&lg=1&token=$1
+RewriteRule ^fr/boutique/fin/erreur/*(.*) cgi-bin/eshop.pl?sw=order_end_error&lg=1&token=$1
+RewriteRule ^fr/boutique/confirmation/*(.*) cgi-bin/eshop.pl?sw=fact&lg=1&token=$1
+RewriteRule ^fr/boutique/fin/compte/cree/*(.*) cgi-bin/eshop.pl?sw=end&status=success&account_ok=y&lg=1&token=$1
+RewriteRule ^fr/boutique/achat/*(.*) cgi-bin/eshop.pl?sw=add_cart&lg=1&$1
+RewriteRule ^fr/boutique/lightbox-confirmation/*(.*) cgi-bin/eshop.pl?sw=lightbox_confirmation&lg=1&$1 
+RewriteRule ^fr/boutique/charger-panier/*(.*) cgi-bin/eshop.pl?sw=get_cart&lg=1&$1
+RewriteRule ^fr/boutique/change-quantite-panier/*(.*) cgi-bin/eshop.pl?sw=edit_cart_qty&lg=1$1
+RewriteRule ^fr/boutique/supprime-ligne-panier/*(.*) cgi-bin/eshop.pl?sw=delete_detail_line&lg=1$1
+RewriteRule ^fr/boutique/general/*(.*) cgi-bin/eshop.pl?&lg=1
+RewriteRule ^fr/boutique/charger-mini-panier/*(.*) cgi-bin/eshop.pl?sw=get_mini_cart&lg=1&$1
+RewriteRule ^fr/boutique/charger-micro-panier/*(.*) cgi-bin/eshop.pl?sw=get_micro_cart&lg=1$1
+RewriteRule ^fr/boutique/validation-paiement/*(.*) cgi-bin/eshop_payment_callback.pl
+RewriteRule ^fr/boutique/facture-pro-forma/*(.*) cgi-bin/eshop.pl?sw=fact&lg=1&token=$1
+RewriteRule ^fr/boutique/retour/*(.*) cgi-bin/eshop.pl?sw=retour&lg=1&$1
+RewriteRule ^fr/newsletter/inscription/succes/*(.*) cgi-bin/members.pl?sw=member_mailing_subscribe_ok&lg=1&$1
+RewriteRule ^fr/membre/revendeur/inscription/*(.*) cgi-bin/members.pl?sw=member_signup&type=revendeur&lg=1&$1
+RewriteRule ^fr/boutique/charger-micro-panier-prix/*(.*) cgi-bin/eshop.pl?sw=get_micro_cart_price&lg=1$1
+RewriteRule ^fr/boutique/lightbox-liste-envies/*(.*) cgi-bin/eshop.pl?sw=lightbox_confirmation_wishlist&lg=1
+RewriteRule ^fr/membre/liste-envies/*(.*) cgi-bin/members.pl?sw=member_wishlist&lg=1
+RewriteRule ^fr/boutique/charger-coupon/*(.*) cgi-bin/eshop.pl?sw=get_coupon&lg=1&$1
+RewriteRule ^fr/boutique/sauver-coupon/*(.*) cgi-bin/eshop.pl?sw=save_coupon&lg=1&$1
+RewriteRule ^fr/boutique/supprimer-coupon/*(.*) cgi-bin/eshop.pl?sw=delete_coupon&lg=1&$1
+RewriteRule ^fr/boutique/bpost/coordonnees/*(.*) cgi-bin/eshop.pl?sw=bpost&lg=1&$1
+RewriteRule ^fr/boutique/bpost/validation/*(.*) cgi-bin/eshop_bpost_reception.pl?&lg=1$1
+RewriteRule ^fr/membre/deconnexion/*(.*) cgi-bin/members.pl?sw=member_logout_db&lg=1
+RewriteRule ^fr/membre/mon-compte/*(.*) cgi-bin/members.pl?sw=account&lg=1
+RewriteRule ^fr/membre/inscription/*(.*) cgi-bin/members.pl?sw=member_signup&lg=1&type=$1&email=$2
+RewriteRule ^fr/membre/authentification/*(.*) cgi-bin/members.pl?sw=member_signup_or_login&lg=1	
+	RewriteRule ^fr/connexion$ cgi-bin/members.pl?lg=1&extlink=&extlink_member=&sw=login_form
+RewriteRule ^fr/reservation$ cgi-bin/handmade_britishbusinessopen.pl?lg=1&extlink=1&sw=reservation
+RewriteRule ^fr/reservation/success$ cgi-bin/handmade_britishbusinessopen.pl?lg=1&extlink=1&sw=reservation_db
+RewriteRule ^admin-certigreen/commandes&sel=(.*)$ cgi-bin/adm_handmade_certigreen_commandes.pl?&mine=n&sel=$1
+RewriteRule ^admin-certigreen/mes-commandes&sel=(.*)$ cgi-bin/adm_handmade_certigreen_commandes.pl?&mine=y&sel=$1
+RewriteRule ^admin-certigreen/clients&sel=(.*)$ cgi-bin/adm_handmade_certigreen_members.pl?&mine=n&sel=$1
+RewriteRule ^admin-certigreen/mes-clients&sel=(.*)$ cgi-bin/adm_handmade_certigreen_members.pl?&mine=y&sel=$1
+
+</IfModule>
